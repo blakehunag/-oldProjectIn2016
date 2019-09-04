@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="HRModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="QA">
+    <Key>
+      <PropertyRef Name="QID" />
+    </Key>
+    <Property Name="QID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Question" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Option1" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Option2" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Option3" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Option4" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Answer" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="CID" Type="Int32" Nullable="false" />
+    <Property Name="qNumber" Type="Int32" />
+  </EntityType>
+  <EntityType Name="quizResult">
+    <Key>
+      <PropertyRef Name="rID" />
+    </Key>
+    <Property Name="rID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="testYet" Type="Boolean" Nullable="false" />
+    <Property Name="scrore" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="course" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="userID" Type="Int32" />
+    <Property Name="A1" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="A2" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="A3" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="A4" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="A5" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="A6" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="A7" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="A8" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="A9" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="A10" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="videoHistory">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="useID" Type="Int32" />
+    <Property Name="playedTime" Type="Double" />
+    <Property Name="percentage" Type="Int32" />
+    <Property Name="course" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="HREntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="QA" EntityType="Self.QA" />
+    <EntitySet Name="quizResult" EntityType="Self.quizResult" />
+    <EntitySet Name="videoHistory" EntityType="Self.videoHistory" />
+  </EntityContainer>
+</Schema>

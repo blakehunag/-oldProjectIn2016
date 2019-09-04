@@ -1,0 +1,107 @@
+﻿.side-menu {
+    background-color: #62a6c9;
+    height: inherit;
+}
+
+.main-row, .side-container {
+    height: inherit;
+}
+
+.mainbody {
+    background-color: #ffffff;
+}
+
+.myAside {
+    height: 500px;
+    border: 3px solid black;
+    width: 200px;
+    margin: 30px 0;
+}
+
+.quizBox {
+    /*border:3px solid black;*/
+    height: 500px;
+    margin: 30px 0;
+}
+
+.question {
+    text-align: center;
+    font-size: 22px;
+    margin-bottom: 15px;
+}
+
+.qBox {
+    background-color:#ffffff;
+    color: black;
+    width: 500px;
+    height:3em;
+    margin: 00% 00% 2% 28%;
+    border: 3px solid black;
+    padding-top:0.7em;
+        font-size:1em;
+
+}
+.chosen {
+    background-color: blue;
+    color: white;
+    width: 500px;
+    height:3em;
+    margin: 00% 00% 2% 28%;
+    border: 3px solid blue;
+    padding-top:0.7em;
+        font-size:1em;
+}
+
+.bBox {
+    color: black;
+    width: 400px;
+
+    margin: 0 0 1% 30%;
+    text-align:center;
+    text-decoration:none;
+}
+
+.chose {
+    margin-top: 150px;
+    text-align: center;
+    height: 200px;
+    font-size: 66px;
+}
+
+.btn {
+    margin: 5px;
+}
+
+.btn-control {
+    width: 150px;
+    background-color: #ffffff;
+    color: black;
+    border: 3px solid black;
+    border-radius: 35px;
+    margin-left: 20px;
+}
+
+.listing {
+    height: 800px;
+    overflow: scroll;
+}
+
+.animate-enter {
+    -webkit-transition: 1s linear all; /* Chrome */
+    transition: 1s linear all;
+    opacity: 0;
+}
+
+.animate-enter.animate-enter-active {
+    opacity: 1;
+}
+.correct {
+    background-color:#8bfc98;
+}
+.wrong {
+    background-color:#f16060;
+}
+/*彈出視窗的上面*/
+.md-toolbar-tools{
+    background-color:#357ebd;
+}

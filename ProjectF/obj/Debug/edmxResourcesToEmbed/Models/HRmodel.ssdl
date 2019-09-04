@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="HRModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="courses">
+    <Key>
+      <PropertyRef Name="CID" />
+    </Key>
+    <Property Name="CID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CoursesName" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="QA">
+    <Key>
+      <PropertyRef Name="QID" />
+    </Key>
+    <Property Name="QID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Question" Type="nvarchar" MaxLength="50" />
+    <Property Name="Option1" Type="nvarchar" MaxLength="50" />
+    <Property Name="Option2" Type="nvarchar" MaxLength="50" />
+    <Property Name="Option3" Type="nvarchar" MaxLength="50" />
+    <Property Name="Option4" Type="nvarchar" MaxLength="50" />
+    <Property Name="Answer" Type="nvarchar" MaxLength="50" />
+    <Property Name="CID" Type="int" Nullable="false" />
+    <Property Name="qNumber" Type="int" />
+  </EntityType>
+  <EntityType Name="quizResult">
+    <Key>
+      <PropertyRef Name="rID" />
+    </Key>
+    <Property Name="rID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="testYet" Type="bit" Nullable="false" />
+    <Property Name="scrore" Type="nchar" MaxLength="10" />
+    <Property Name="course" Type="nvarchar" MaxLength="50" />
+    <Property Name="userID" Type="int" />
+    <Property Name="A1" Type="nvarchar" MaxLength="50" />
+    <Property Name="A2" Type="nvarchar" MaxLength="50" />
+    <Property Name="A3" Type="nvarchar" MaxLength="50" />
+    <Property Name="A4" Type="nvarchar" MaxLength="50" />
+    <Property Name="A5" Type="nvarchar" MaxLength="50" />
+    <Property Name="A6" Type="nvarchar" MaxLength="50" />
+    <Property Name="A7" Type="nvarchar" MaxLength="50" />
+    <Property Name="A9" Type="nvarchar" MaxLength="50" />
+    <Property Name="A10" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK_QA_courses">
+    <End Role="courses" Type="Self.courses" Multiplicity="1" />
+    <End Role="QA" Type="Self.QA" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="courses">
+        <PropertyRef Name="CID" />
+      </Principal>
+      <Dependent Role="QA">
+        <PropertyRef Name="CID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="HRModelStoreContainer">
+    <EntitySet Name="courses" EntityType="Self.courses" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="QA" EntityType="Self.QA" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="quizResult" EntityType="Self.quizResult" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_QA_courses" Association="Self.FK_QA_courses">
+      <End Role="courses" EntitySet="courses" />
+      <End Role="QA" EntitySet="QA" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

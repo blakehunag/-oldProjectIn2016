@@ -1,0 +1,68 @@
+﻿<!--<div>
+    <ul class="list-group">
+ 
+        <li class="list-group-item">第{{listing.qNumber}}題</li>
+        <li class="list-group-item">{{listing.Question}}</li>
+        <li class="list-group-item">{{listing.Option1}}</li>
+        <li class="list-group-item">{{listing.Option2}}</li>
+        <li class="list-group-item">{{listing.Option3}}</li>
+        <li class="list-group-item">{{listing.Option4}}</li>
+        <li class="list-group-item">{{listing.Answer}}</li>
+        <li class="list-group-item">
+            <button type="button" class="btn btn-warning" id="buttonPost" ng-click="edit(listing)">編輯</button>
+            <button type="button" class="btn btn-danger" id="buttonPut" ng-click="remove(listing.QID)">刪除</button>
+        </li>
+    </ul>
+
+</div>-->
+
+
+
+<div layout="row" layout-padding layout-wrap layout-fill style="padding-bottom: 32px;" ng-cloak>
+    <h2 style="display:block;text-align:center;width:100%">第{{listing.qNumber}}題</h2>
+    <md-whiteframe class="md-whiteframe-5dp" flex-sm="45" flex-gt-sm="35" flex-gt-md="100" layout layout-align="center center">
+        <span>Question : {{listing.Question}}</span>
+    </md-whiteframe>
+    <md-whiteframe class="md-whiteframe-5dp" flex-sm="45" flex-gt-sm="35" flex-gt-md="25" layout layout-align="center center">
+        <span>Option1:<br /></span>
+    </md-whiteframe>
+
+    <md-whiteframe class="md-whiteframe-5dp" flex-sm="45" flex-gt-sm="35" flex-gt-md="25" layout layout-align="center center">
+        <span>Option2:<br /></span>
+    </md-whiteframe>
+
+    <md-whiteframe class="md-whiteframe-5dp" flex-sm="45" flex-gt-sm="35" flex-gt-md="25" layout layout-align="center center">
+        <span>Option3:<br /></span>
+    </md-whiteframe>
+
+    <md-whiteframe class="md-whiteframe-5dp" flex-sm="45" flex-gt-sm="35" flex-gt-md="25" layout layout-align="center center">
+        <span>Option4:<br /></span>
+    </md-whiteframe>
+    <md-whiteframe class="md-whiteframe-5dp" flex-sm="45" flex-gt-sm="35" flex-gt-md="25" layout layout-align="center center">
+        <span>{{listing.Option1}}</span>
+    </md-whiteframe>
+
+    <md-whiteframe class="md-whiteframe-5dp" flex-sm="45" flex-gt-sm="35" flex-gt-md="25" layout layout-align="center center">
+        <span>{{listing.Option2}}</span>
+    </md-whiteframe>
+
+    <md-whiteframe class="md-whiteframe-5dp" flex-sm="45" flex-gt-sm="35" flex-gt-md="25" layout layout-align="center center">
+        <span>{{listing.Option3}}</span>
+    </md-whiteframe>
+
+    <md-whiteframe class="md-whiteframe-5dp" flex-sm="45" flex-gt-sm="35" flex-gt-md="25" layout layout-align="center center">
+        <span>{{listing.Option4}}</span>
+    </md-whiteframe>
+    <md-whiteframe class="md-whiteframe-5dp" flex-sm="45" flex-gt-sm="35" flex-gt-md="100" layout layout-align="center center">
+        <span>Answer : {{listing.Answer}}</span>
+    </md-whiteframe>
+    <md-whiteframe class="md-whiteframe-5dp" flex-sm="45" flex-gt-sm="35" flex-gt-md="50" layout layout-align="center center">
+        <button type="button" class="btn btn-warning" id="buttonPost" ng-click="edit(listing)" style="width:100%">編輯</button>
+    </md-whiteframe>
+    <md-whiteframe class="md-whiteframe-5dp" flex-sm="45" flex-gt-sm="35" flex-gt-md="50" layout layout-align="center center">
+        <button type="button" class="btn btn-danger" id="buttonPut" ng-click="remove(listing.QID)"style="width:100%">刪除</button>
+    </md-whiteframe>
+
+
+</div>
+

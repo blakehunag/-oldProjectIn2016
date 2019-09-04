@@ -1,0 +1,455 @@
+﻿
+@{
+    ViewBag.Title = "videoPage";
+}
+@section styles{
+    <link href="~/styles/myChart.css" rel="stylesheet" />
+    <style>
+        .range {
+            -webkit-appearance: none;
+            width: 160px;
+            height: 20px;
+            margin: 10px 50px;
+            background: linear-gradient(to right, #5e99d9 0%, #5e99d9 100%);
+            /*background-size: 150px 10px;*/
+            background-position: center;
+            background-repeat: no-repeat;
+            overflow: hidden;
+            outline: none;
+            zoom: 130%;
+            display: block;
+            margin: auto;
+            margin-bottom: 30px;
+        }
+
+        input::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            width: 20px;
+            height: 20px;
+            background: #4b6785;
+            position: relative;
+            z-index: 3;
+        }
+
+            input::-webkit-slider-thumb:after {
+                content: " ";
+                width: 160px;
+                height: 10px;
+                position: absolute;
+                z-index: 1;
+                right: 20px;
+                top: 5px;
+                background: #2ecc71;
+            }
+
+        .mainbody {
+            background-color: black;
+        }
+
+        .ghost {
+            font-family: Tahoma, Verdana, Segoe, sans-serif;
+            font-size: 3rem;
+            letter-spacing: 0.1rem;
+            color: #5e99d9;
+            text-decoration: none;
+            text-transform: uppercase;
+            border: 5px solid #5e99d9;
+            padding: 10px;
+            background: rgba(0, 0, 0, 0.4);
+            transition: all .3s ease;
+        }
+                .warning {
+            font-family: Tahoma, Verdana, Segoe, sans-serif;
+            font-size: 3rem;
+            letter-spacing: 0.1rem;
+            color: red;
+            text-decoration: none;
+            text-transform: uppercase;
+            border: 5px solid red;
+            padding: 10px;
+            background: rgba(0, 0, 0, 0.4);
+            transition: all .3s ease;
+        }
+
+            .ghost:hover, .ghost:active, .ghost:focus {
+                background: rgba(0, 0, 0, 0.4);
+                border-color: #5e99d9;
+                color: #eee;
+            }
+
+        #player {
+            pointer-events: none;
+        }
+    </style>
+}
+
+
+@*<div ng-app="myApp" ng-controller="videoController">*@
+
+<div class="row" style="background-color:black">
+    <div id="scene-2-content" class="col-sm-3">
+        <div class="chart " id="sunshine">
+            <div class="circle-mask-outer left">
+                <div class="circle-mask-inner">
+                    <div class="circle-body"></div>
+                </div>
+            </div>
+            <div class="circle-mask-outer right">
+                <div class="circle-mask-inner">
+                    <div class="circle-body"></div>
+                </div>
+            </div>
+            <div class="chart-content">
+                <img class="icon" src="~/images/eye.png" alt="Sunshine">
+                <p class="text">
+                    <span class="percent-number"></span><span class="percent-symbol">%</span>
+                </p>
+            </div>
+        </div><!-- /.chart -->
+        <div class="col-lg-6" id="test">
+            <input type="button" value="可再次進行測驗" class="ghost" style="font-size:20px!important;margin-left:43px">
+        </div>
+    </div>
+    <div class="col-sm-6" style="margin-left:0% !important;width:650px;height:370px">
+        <div id="player">
+            <iframe src="" frameborder="0" allowfullscreen></iframe>
+
+        </div>
+    </div>
+    <div style="overflow:hidden;height:360px;padding:0 25px;"  >
+        <h1 id="title"style="text-align:center"></h1>
+        <p id="description"style="overflow:hidden;text-align:left"></p>
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg-12" style="height:26px">
+        <input type="range" class="range" id="progress-bar" value="0" style="width:100%">
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg-6" style="margin-left:47.5%">
+        <p><span id="current-time"></span> / <span id="duration"></span></p>
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg-6" style="margin-left:43%">
+        <input type="button" id="play" value="PLAY" class="ghost" style="width:200px">
+        <br />
+        <input type="button" id="save" value="SAVE" class="ghost" style="width:200px" onclick="saveFunction()">
+        <br />
+        <input type="button" id="save" value="LEAVE" class="ghost" style="width:200px" onclick="leave()" />
+    </div>
+</div>
+
+
+<div class="row">
+
+</div>
+
+
+
+@section scripts{
+    <script src="~/Scripts/angular.min.js"></script>
+    <script src="~/Scripts/angular-resource.min.js"></script>
+    <script src="~/Scripts/angular-route.min.js"></script>
+
+    <script src="~/Scripts/angular-animate.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular-aria.min.js"></script>
+    <script src="~/Scripts/angular-cookies.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-material/1.1.1/angular-material.min.js"></script>
+    <script src="http://ngmaterial.assets.s3.amazonaws.com/svg-assets-cache.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular-messages.min.js"></script>
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/jquery.timers.min.js"></script>
+    <script src="~/Scripts/jquery-ui-1.10.3.custom.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+    <script src="~/Scripts/dist.min.js"></script>
+    <script src="~/Scripts/app.js"></script>
+    <script src="https://www.youtube.com/iframe_api"></script>
+    <script>
+        $('#test').hide();
+        counter = 0;
+        var returnData;
+        currentUserID = $.cookie("currentUserID");
+        currentCourse = $.cookie("currentCourseToVideo");
+
+        console.log("uid" + currentUserID);
+        //取得觀看紀錄
+        $.get("/api/video/getVideoHistory?id=" + currentUserID + "&name=" + currentCourse, function (data) {
+             console.log(data);
+             returnData = data;
+             counter = returnData.percentage;
+             console.log(counter);
+             activateScene2(counter);
+         });
+        //--------------測試帶入影片id---10.11-好像OK
+         switch (currentCourse) {
+             case 'HTML':
+                 courseVideo = 'kDyJN7qQETA';
+                     break;
+             case 'Javascript':
+                 courseVideo = 'XL9Ri8pO68w';
+                 break;
+             case 'AngularJS':
+                 courseVideo = 'ejBkOjEG6F0';
+                 break;
+             default:
+         }
+
+
+
+        //----youtube data api取得影片資訊
+        var description;
+        $.getJSON("https://www.googleapis.com/youtube/v3/videos?part=snippet&id="+courseVideo+"&key=AIzaSyBFDqqiI-NLu_56VWxf-Ai6Z_v999SLS8w", function (data) {
+            //var items = [];
+            //$.each(data, function (key, val) {
+            //    items.push("<li id='" + key + "'>" + val + "</li>");
+            //});
+            description = data.items[0].snippet.description;
+            $('#description').text(description);
+            $('#title').text(data.items[0].snippet.title)
+        });
+        function onYouTubeIframeAPIReady() {
+            player = new YT.Player('player', {
+                //width: 800,
+                //height: 600,
+                videoId: courseVideo,
+                playerVars: {
+                    color: 'red',
+                    //playlist: 'taJ60kskkns,FG0fTKAqZ5g',
+                    autoplay: 0, showinfo: 0, controls: 0,
+
+                },
+                events: {
+                    'onReady': initialize,
+                    'onStateChange': onPlayerStateChange,
+                }
+            });
+        }
+        function initialize() {
+
+            // Update the controls on load
+            updateTimerDisplay();
+            updateProgressBar();
+            //player.playVideo();
+            // Clear any old interval.
+            if (returnData != null) {
+
+                player.seekTo(returnData.playedTime);
+
+            }
+
+            // Start interval to update elapsed time display and
+            // the elapsed part of the progress bar every second.
+            time_update_interval = setInterval(function () {
+                //換到我自己寫的timer
+                //updateTimerDisplay();
+                //updateProgressBar();
+            }, 1000)
+            //clearInterval(time_update_interval);
+
+        }
+
+        $('#progress-bar').on('mouseup touchend', function (e) {
+
+            // Calculate the new time for the video.
+            // new time in seconds = total duration in seconds * ( value of range input / 100 )
+            var newTime = player.getDuration() * (e.target.value / 100);
+
+            // Skip video to new time.
+            player.seekTo(newTime);
+
+        });
+
+
+        function updateProgressBar() {
+            // Update the value of our progress bar accordingly.
+            $('#progress-bar').val((player.getCurrentTime() / player.getDuration()) * 100);
+        }
+        function updateTimerDisplay() {
+            // Update current time text display.
+            $('#current-time').text(formatTime(player.getCurrentTime()));
+            $('#duration').text(formatTime(player.getDuration()));
+        }
+
+        function formatTime(time) {
+            time = Math.round(time);
+
+            var minutes = Math.floor(time / 60),
+            seconds = time - minutes * 60;
+
+            seconds = seconds < 10 ? '0' + seconds : seconds;
+
+            return minutes + ":" + seconds;
+        }
+
+        b = true;
+        $('#play').on('click', function () {
+            if ($('#play').val() == 'PLAY') {
+                player.playVideo();
+                $('#play').val('PAUSE')
+                $('body').everyTime('1s', 'myTimer1', timerFunc, 100);
+
+                console.log('play');
+            }
+            else {
+                $('#play').val('PLAY');
+                player.pauseVideo();
+                console.log('pause');
+                $('body').stopTime('myTimer1');
+
+
+            }
+
+        });
+
+
+        function onPlayerStateChange(event) {
+            switch (event.data) {
+                case 0: // (ended)
+                    break;
+                case 1: // (playing)
+                    $('body').everyTime('1s', 'myTimer1', timerFunc, 100);
+                    $('#play').val('PAUSE');
+                    break;
+                case 2: //(paused)
+                    $('#play').val('PLAY');
+                    $('body').stopTime('myTimer1');
+                    console.log(counter)
+                    break;
+
+            }
+        }
+        var b = false;
+        function timerFunc() {
+            if (counter < 100) {
+                counter++;
+                updateTimerDisplay();
+                updateProgressBar();
+                activateScene2(counter);
+            }
+            if(counter==100)
+            {//只存一次
+
+                    $('#test').show();
+                    //-----有觀看至100%，把testYet改為false，方可重新測驗
+                    var resultData;
+                    $.get("/api/quizResult/GetByID?id=" + currentUserID + "&name=HTML", function (data) {
+                        //console.log(data);
+                        resultData = data;
+                        resultData.testYet = false;
+                        //console.log(resultData);
+                        $.ajax({
+                            url: "/api/quizResult/",
+                            type: 'PUT',
+                            data: resultData,
+                            success: function (result) {
+                                console.log("update success");
+                            }
+                        });
+                    });
+                    //---100%了，理所當然自動存檔觀看進度
+                    var duration = player.getCurrentTime();
+                    var count = counter;
+                    //console.log(duration + "  " + count);
+                    var arr = { useID: currentUserID, playedTime: duration, percentage: count, course: currentCourse };
+                    $.ajax({
+                        url: '/api/video',
+                        type: 'POST',
+                        data: JSON.stringify(arr),
+                        contentType: 'application/json; charset=utf-8',
+                        dataType: 'json',
+                        async: true,
+                        success: function (msg) {
+                        }
+                    });
+                    counter++;
+            }
+            else {
+
+                //$('body').stopTime('myTimer1');
+                updateTimerDisplay();
+                updateProgressBar();
+            }
+
+        }
+        //----------------chartjs
+
+
+
+        // 顯示Scene 2
+        function activateScene2(count) {
+            $('.percent-number').text(count);
+            var $content = $('#scene-2-content'),
+                $charts = $content.find('.chart');
+
+            // 內容從右側出現顯示
+            //$content.stop(true).animate({
+            //    right: 0
+            //}, 1200, 'easeInOutQuint');
+
+            // 各圓的處理
+            $charts.each(function () {
+                var $chart = $(this),
+                    // 保存遮罩、設定角度為0
+                    $circleLeft = $chart.find('.left .circle-mask-inner')
+                        .css({ transform: 'rotate(0)' }),
+                    $circleRight = $chart.find('.right .circle-mask-inner')
+                        .css({ transform: 'rotate(0)' }),
+                    // 取得百分比
+                    $percentNumber = $chart.find('.percent-number'),
+                    percentData = $percentNumber.text();
+
+                // 設定百分比顯示為0
+                //$percentNumber.text(0);
+
+                // 角度的動畫
+                $({ percent: counter }).delay(0).animate({ percent: percentData }, {
+                    duration: 1500,
+                    progress: function () {
+                        var now = this.percent,
+                            deg = now * 360 / 100,
+                            degRight = Math.min(Math.max(deg, 0), 180),
+                            degLeft = Math.min(Math.max(deg - 180, 0), 180);
+                        $circleRight.css({ transform: 'rotate(' + degRight + 'deg)' });
+                        $circleLeft.css({ transform: 'rotate(' + degLeft + 'deg)' });
+                        $percentNumber.text(Math.floor(now));
+                    }
+                });
+            });
+        }
+        $('body').bind('keypress', function (e) {
+            if (e.keyCode == 13) {
+                counter = counter + 1;
+                $('.percent-number').text(count);
+
+                console.log('13');
+            }
+        });
+
+
+        function saveFunction() {
+            //player.seekTo(120);
+            player.pauseVideo();
+
+            var duration = player.getCurrentTime();
+            var count = counter;
+            console.log(duration + "  " + count);
+            var arr = { useID: currentUserID, playedTime: duration, percentage: count, course: currentCourse };
+            console.log(arr);
+            $.ajax({
+                url: '/api/video',
+                type: 'POST',
+                data: JSON.stringify(arr),
+                contentType: 'application/json; charset=utf-8',
+                dataType: 'json',
+                async: true,
+                success: function (msg) {
+                }
+            });
+         }
+        function leave() {
+            window.location.href = "/Exam/quizMain";
+        }
+    </script>
+}

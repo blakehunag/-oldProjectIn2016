@@ -1,0 +1,68 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+<title></title>
+<meta charset="utf-8">
+    <link href="~/styles/bootstrap.min.css" rel="stylesheet" />
+<link rel="stylesheet" href="~/styles/main.css" type="text/css">
+<link rel="stylesheet" href="~/styles/nivo-slider.css" type="text/css">
+    <link href="~/styles/myCustomize.css" rel="stylesheet" />
+    @RenderSection("styles",false)
+<!--[if lte IE 8]><link rel="stylesheet" href="media/styles/ie.css" type="text/css"><![endif]-->
+<script src="~/scripts/jquery-1.6.1.min.js"></script>
+<script src="~/scripts/jquery.nivo.slider.pack.js"></script>
+<script src="~/scripts/blanka.js"></script>
+</head>
+<body>
+<div id="header"style="height:80px">
+  <div class="inner cf" >
+    @*<form method="post" action="#" class="search">
+      <fieldset>
+        <legend>Search</legend>
+        <input type="text" name="search" value="">
+        <input type="image" name="submit" src="~/images/search/button.png" alt="Search">
+      </fieldset>
+    </form>*@
+    <div id="navigation">
+      @*<ul>
+        <li class="current-menu-item">
+            @Html.ActionLink("Home", "Main", "Home", new { area = "" }, new { @class = "navbar-brand" })
+</li>
+        <li> <a href="#">dropdown</a>
+          <ul>
+            <li class="linkA"><a href="#"  >menu option two</a></li>
+            <li class="linkA"><a href="#" >menu option three</a></li>
+            <li class="linkA"><a href="#" >menu option four</a></li>
+            <li class="linkA"><a href="#" > menu option five</a></li>
+          </ul>
+        </li>
+        <li>@Html.ActionLink("Exam", "Index", "Exam", new { area = "" }, new { @class = "navbar-brand" })
+</li>
+        <li><a href="blog.html">blog</a></li>
+      </ul>*@
+    </div>
+  </div>
+</div>
+<hr>
+ 
+  <div class="inner mainbody" style="height:800px">
+      @RenderBody()
+
+
+  </div>
+ 
+<hr>
+<div id="footer">
+  <div class="inner">
+    <p> <span>&copy; 2012 by <a href="#">Blanka</a></span> <span>All rights reserved.</span> <span>Website Template By <a target="_blank" href="http://highonpixels.com">High on Pixels</a></span> </p>
+  </div>
+</div>
+    @RenderSection("scripts",false);
+</body>
+</html>
+ 
+
+ 
+ 
+ 
+ 

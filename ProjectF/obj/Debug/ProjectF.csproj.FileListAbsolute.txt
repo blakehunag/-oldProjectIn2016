@@ -1,0 +1,1784 @@
+C:\Users\III\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\roslyn\csc.exe
+C:\Users\III\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\III\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\III\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\III\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\III\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\III\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\III\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\III\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\III\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\roslyn\vbc.exe
+C:\Users\III\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\roslyn\VBCSCompiler.exe
+C:\Users\III\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\III\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\ProjectF.dll.config
+C:\Users\III\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\ProjectF.dll
+C:\Users\III\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\ProjectF.pdb
+C:\Users\III\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\III\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\III\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\System.Web.Helpers.dll
+C:\Users\III\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\System.Web.Mvc.dll
+C:\Users\III\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\System.Web.Razor.dll
+C:\Users\III\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\System.Web.Webpages.Deployment.dll
+C:\Users\III\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\System.Web.Webpages.dll
+C:\Users\III\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\System.Web.Webpages.Razor.dll
+C:\Users\III\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\III\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\System.Web.Razor.xml
+C:\Users\III\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\System.Web.Webpages.xml
+C:\Users\III\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\System.Web.Webpages.Deployment.xml
+C:\Users\III\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\System.Web.Webpages.Razor.xml
+C:\Users\III\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\System.Web.Helpers.xml
+C:\Users\III\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\System.Web.Mvc.xml
+C:\Users\III\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\III\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\zh-Hant\System.Web.Webpages.resources.dll
+C:\Users\III\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+C:\Users\III\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+C:\Users\III\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\III\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\III\Google 雲端硬碟\MVC\ProjectF\ProjectF\obj\Debug\ProjectF.csprojResolveAssemblyReference.cache
+C:\Users\III\Google 雲端硬碟\MVC\ProjectF\ProjectF\obj\Debug\ProjectF.dll
+C:\Users\III\Google 雲端硬碟\MVC\ProjectF\ProjectF\obj\Debug\ProjectF.pdb
+Z:\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\roslyn\csc.exe
+Z:\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\roslyn\System.Collections.Immutable.dll
+Z:\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\roslyn\System.Reflection.Metadata.dll
+Z:\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\roslyn\vbc.exe
+Z:\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\roslyn\VBCSCompiler.exe
+Z:\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\roslyn\VBCSCompiler.exe.config
+Z:\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\ProjectF.dll.config
+Z:\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\ProjectF.dll
+Z:\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\ProjectF.pdb
+Z:\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\Microsoft.Web.Infrastructure.dll
+Z:\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\System.Web.Helpers.dll
+Z:\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\System.Web.Mvc.dll
+Z:\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\System.Web.Razor.dll
+Z:\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\System.Web.Webpages.Deployment.dll
+Z:\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\System.Web.Webpages.dll
+Z:\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\System.Web.Webpages.Razor.dll
+Z:\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\System.Web.Razor.xml
+Z:\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\System.Web.Webpages.xml
+Z:\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\System.Web.Webpages.Deployment.xml
+Z:\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\System.Web.Webpages.Razor.xml
+Z:\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\System.Web.Helpers.xml
+Z:\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\System.Web.Mvc.xml
+Z:\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\zh-Hant\System.Web.Razor.resources.dll
+Z:\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\zh-Hant\System.Web.Webpages.resources.dll
+Z:\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+Z:\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+Z:\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\zh-Hant\System.Web.Helpers.resources.dll
+Z:\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\zh-Hant\System.Web.Mvc.resources.dll
+Z:\Google 雲端硬碟\MVC\ProjectF\ProjectF\obj\Debug\ProjectF.csprojResolveAssemblyReference.cache
+Z:\Google 雲端硬碟\MVC\ProjectF\ProjectF\obj\Debug\ProjectF.dll
+Z:\Google 雲端硬碟\MVC\ProjectF\ProjectF\obj\Debug\ProjectF.pdb
+Z:\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\EntityFramework.dll
+Z:\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\EntityFramework.SqlServer.dll
+Z:\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\EntityFramework.xml
+Z:\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\EntityFramework.SqlServer.xml
+Z:\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\zh-Hant\EntityFramework.resources.dll
+Z:\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\Newtonsoft.Json.dll
+Z:\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\System.Net.Http.Formatting.dll
+Z:\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\System.Web.Http.dll
+Z:\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\System.Web.Http.WebHost.dll
+Z:\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\Newtonsoft.Json.xml
+Z:\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\System.Net.Http.Formatting.xml
+Z:\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\System.Web.Http.xml
+Z:\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\System.Web.Http.WebHost.xml
+Z:\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+Z:\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\zh-Hant\System.Web.Http.resources.dll
+Z:\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+C:\Users\III\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\EntityFramework.dll
+C:\Users\III\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\EntityFramework.SqlServer.dll
+C:\Users\III\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\Newtonsoft.Json.dll
+C:\Users\III\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\System.Net.Http.Formatting.dll
+C:\Users\III\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\System.Web.Http.dll
+C:\Users\III\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\System.Web.Http.WebHost.dll
+C:\Users\III\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\EntityFramework.xml
+C:\Users\III\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\Newtonsoft.Json.xml
+C:\Users\III\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\System.Net.Http.Formatting.xml
+C:\Users\III\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\System.Web.Http.xml
+C:\Users\III\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\System.Web.Http.WebHost.xml
+C:\Users\III\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+C:\Users\III\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\zh-Hant\System.Web.Http.resources.dll
+C:\Users\III\Google 雲端硬碟\MVC\ProjectF\ProjectF\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+\\192.168.35.20\Web\MVC作業\黃彥鈞\ProjectF\ProjectF\bin\roslyn\csc.exe
+\\192.168.35.20\Web\MVC作業\黃彥鈞\ProjectF\ProjectF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\192.168.35.20\Web\MVC作業\黃彥鈞\ProjectF\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\192.168.35.20\Web\MVC作業\黃彥鈞\ProjectF\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\192.168.35.20\Web\MVC作業\黃彥鈞\ProjectF\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\192.168.35.20\Web\MVC作業\黃彥鈞\ProjectF\ProjectF\bin\roslyn\Microsoft.CSharp.Core.targets
+\\192.168.35.20\Web\MVC作業\黃彥鈞\ProjectF\ProjectF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\192.168.35.20\Web\MVC作業\黃彥鈞\ProjectF\ProjectF\bin\roslyn\System.Collections.Immutable.dll
+\\192.168.35.20\Web\MVC作業\黃彥鈞\ProjectF\ProjectF\bin\roslyn\System.Reflection.Metadata.dll
+\\192.168.35.20\Web\MVC作業\黃彥鈞\ProjectF\ProjectF\bin\roslyn\vbc.exe
+\\192.168.35.20\Web\MVC作業\黃彥鈞\ProjectF\ProjectF\bin\roslyn\VBCSCompiler.exe
+\\192.168.35.20\Web\MVC作業\黃彥鈞\ProjectF\ProjectF\bin\roslyn\VBCSCompiler.exe.config
+\\192.168.35.20\Web\MVC作業\黃彥鈞\ProjectF\ProjectF\bin\ProjectF.dll.config
+\\192.168.35.20\Web\MVC作業\黃彥鈞\ProjectF\ProjectF\bin\ProjectF.dll
+\\192.168.35.20\Web\MVC作業\黃彥鈞\ProjectF\ProjectF\bin\ProjectF.pdb
+\\192.168.35.20\Web\MVC作業\黃彥鈞\ProjectF\ProjectF\bin\EntityFramework.dll
+\\192.168.35.20\Web\MVC作業\黃彥鈞\ProjectF\ProjectF\bin\EntityFramework.SqlServer.dll
+\\192.168.35.20\Web\MVC作業\黃彥鈞\ProjectF\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\192.168.35.20\Web\MVC作業\黃彥鈞\ProjectF\ProjectF\bin\Microsoft.Web.Infrastructure.dll
+\\192.168.35.20\Web\MVC作業\黃彥鈞\ProjectF\ProjectF\bin\Newtonsoft.Json.dll
+\\192.168.35.20\Web\MVC作業\黃彥鈞\ProjectF\ProjectF\bin\System.Net.Http.Formatting.dll
+\\192.168.35.20\Web\MVC作業\黃彥鈞\ProjectF\ProjectF\bin\System.Web.Helpers.dll
+\\192.168.35.20\Web\MVC作業\黃彥鈞\ProjectF\ProjectF\bin\System.Web.Http.dll
+\\192.168.35.20\Web\MVC作業\黃彥鈞\ProjectF\ProjectF\bin\System.Web.Http.WebHost.dll
+\\192.168.35.20\Web\MVC作業\黃彥鈞\ProjectF\ProjectF\bin\System.Web.Mvc.dll
+\\192.168.35.20\Web\MVC作業\黃彥鈞\ProjectF\ProjectF\bin\System.Web.Razor.dll
+\\192.168.35.20\Web\MVC作業\黃彥鈞\ProjectF\ProjectF\bin\System.Web.Webpages.Deployment.dll
+\\192.168.35.20\Web\MVC作業\黃彥鈞\ProjectF\ProjectF\bin\System.Web.Webpages.dll
+\\192.168.35.20\Web\MVC作業\黃彥鈞\ProjectF\ProjectF\bin\System.Web.Webpages.Razor.dll
+\\192.168.35.20\Web\MVC作業\黃彥鈞\ProjectF\ProjectF\bin\EntityFramework.xml
+\\192.168.35.20\Web\MVC作業\黃彥鈞\ProjectF\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\192.168.35.20\Web\MVC作業\黃彥鈞\ProjectF\ProjectF\bin\Newtonsoft.Json.xml
+\\192.168.35.20\Web\MVC作業\黃彥鈞\ProjectF\ProjectF\bin\System.Net.Http.Formatting.xml
+\\192.168.35.20\Web\MVC作業\黃彥鈞\ProjectF\ProjectF\bin\System.Web.Http.xml
+\\192.168.35.20\Web\MVC作業\黃彥鈞\ProjectF\ProjectF\bin\System.Web.Http.WebHost.xml
+\\192.168.35.20\Web\MVC作業\黃彥鈞\ProjectF\ProjectF\bin\System.Web.Razor.xml
+\\192.168.35.20\Web\MVC作業\黃彥鈞\ProjectF\ProjectF\bin\System.Web.Webpages.xml
+\\192.168.35.20\Web\MVC作業\黃彥鈞\ProjectF\ProjectF\bin\System.Web.Webpages.Deployment.xml
+\\192.168.35.20\Web\MVC作業\黃彥鈞\ProjectF\ProjectF\bin\System.Web.Webpages.Razor.xml
+\\192.168.35.20\Web\MVC作業\黃彥鈞\ProjectF\ProjectF\bin\System.Web.Helpers.xml
+\\192.168.35.20\Web\MVC作業\黃彥鈞\ProjectF\ProjectF\bin\System.Web.Mvc.xml
+\\192.168.35.20\Web\MVC作業\黃彥鈞\ProjectF\ProjectF\bin\zh-Hant\EntityFramework.resources.dll
+\\192.168.35.20\Web\MVC作業\黃彥鈞\ProjectF\ProjectF\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+\\192.168.35.20\Web\MVC作業\黃彥鈞\ProjectF\ProjectF\bin\zh-Hant\System.Web.Http.resources.dll
+\\192.168.35.20\Web\MVC作業\黃彥鈞\ProjectF\ProjectF\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+\\192.168.35.20\Web\MVC作業\黃彥鈞\ProjectF\ProjectF\bin\zh-Hant\System.Web.Razor.resources.dll
+\\192.168.35.20\Web\MVC作業\黃彥鈞\ProjectF\ProjectF\bin\zh-Hant\System.Web.Webpages.resources.dll
+\\192.168.35.20\Web\MVC作業\黃彥鈞\ProjectF\ProjectF\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+\\192.168.35.20\Web\MVC作業\黃彥鈞\ProjectF\ProjectF\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+\\192.168.35.20\Web\MVC作業\黃彥鈞\ProjectF\ProjectF\bin\zh-Hant\System.Web.Helpers.resources.dll
+\\192.168.35.20\Web\MVC作業\黃彥鈞\ProjectF\ProjectF\bin\zh-Hant\System.Web.Mvc.resources.dll
+\\192.168.35.20\Web\MVC作業\黃彥鈞\ProjectF\ProjectF\obj\Debug\ProjectF.csprojResolveAssemblyReference.cache
+\\192.168.35.20\Web\MVC作業\黃彥鈞\ProjectF\ProjectF\obj\Debug\ProjectF.dll
+\\192.168.35.20\Web\MVC作業\黃彥鈞\ProjectF\ProjectF\obj\Debug\ProjectF.pdb
+C:\Users\III\Desktop\ProjectF\ProjectF\bin\roslyn\csc.exe
+C:\Users\III\Desktop\ProjectF\ProjectF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\III\Desktop\ProjectF\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\III\Desktop\ProjectF\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\III\Desktop\ProjectF\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\III\Desktop\ProjectF\ProjectF\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\III\Desktop\ProjectF\ProjectF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\III\Desktop\ProjectF\ProjectF\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\III\Desktop\ProjectF\ProjectF\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\III\Desktop\ProjectF\ProjectF\bin\roslyn\vbc.exe
+C:\Users\III\Desktop\ProjectF\ProjectF\bin\roslyn\VBCSCompiler.exe
+C:\Users\III\Desktop\ProjectF\ProjectF\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\III\Desktop\ProjectF\ProjectF\bin\ProjectF.dll.config
+C:\Users\III\Desktop\ProjectF\ProjectF\bin\ProjectF.dll
+C:\Users\III\Desktop\ProjectF\ProjectF\bin\ProjectF.pdb
+C:\Users\III\Desktop\ProjectF\ProjectF\bin\EntityFramework.dll
+C:\Users\III\Desktop\ProjectF\ProjectF\bin\EntityFramework.SqlServer.dll
+C:\Users\III\Desktop\ProjectF\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\III\Desktop\ProjectF\ProjectF\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\III\Desktop\ProjectF\ProjectF\bin\Newtonsoft.Json.dll
+C:\Users\III\Desktop\ProjectF\ProjectF\bin\System.Net.Http.Formatting.dll
+C:\Users\III\Desktop\ProjectF\ProjectF\bin\System.Web.Helpers.dll
+C:\Users\III\Desktop\ProjectF\ProjectF\bin\System.Web.Http.dll
+C:\Users\III\Desktop\ProjectF\ProjectF\bin\System.Web.Http.WebHost.dll
+C:\Users\III\Desktop\ProjectF\ProjectF\bin\System.Web.Mvc.dll
+C:\Users\III\Desktop\ProjectF\ProjectF\bin\System.Web.Razor.dll
+C:\Users\III\Desktop\ProjectF\ProjectF\bin\System.Web.Webpages.Deployment.dll
+C:\Users\III\Desktop\ProjectF\ProjectF\bin\System.Web.Webpages.dll
+C:\Users\III\Desktop\ProjectF\ProjectF\bin\System.Web.Webpages.Razor.dll
+C:\Users\III\Desktop\ProjectF\ProjectF\bin\EntityFramework.xml
+C:\Users\III\Desktop\ProjectF\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\III\Desktop\ProjectF\ProjectF\bin\Newtonsoft.Json.xml
+C:\Users\III\Desktop\ProjectF\ProjectF\bin\System.Net.Http.Formatting.xml
+C:\Users\III\Desktop\ProjectF\ProjectF\bin\System.Web.Http.xml
+C:\Users\III\Desktop\ProjectF\ProjectF\bin\System.Web.Http.WebHost.xml
+C:\Users\III\Desktop\ProjectF\ProjectF\bin\System.Web.Razor.xml
+C:\Users\III\Desktop\ProjectF\ProjectF\bin\System.Web.Webpages.xml
+C:\Users\III\Desktop\ProjectF\ProjectF\bin\System.Web.Webpages.Deployment.xml
+C:\Users\III\Desktop\ProjectF\ProjectF\bin\System.Web.Webpages.Razor.xml
+C:\Users\III\Desktop\ProjectF\ProjectF\bin\System.Web.Helpers.xml
+C:\Users\III\Desktop\ProjectF\ProjectF\bin\System.Web.Mvc.xml
+C:\Users\III\Desktop\ProjectF\ProjectF\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Desktop\ProjectF\ProjectF\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+C:\Users\III\Desktop\ProjectF\ProjectF\bin\zh-Hant\System.Web.Http.resources.dll
+C:\Users\III\Desktop\ProjectF\ProjectF\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+C:\Users\III\Desktop\ProjectF\ProjectF\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\III\Desktop\ProjectF\ProjectF\bin\zh-Hant\System.Web.Webpages.resources.dll
+C:\Users\III\Desktop\ProjectF\ProjectF\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+C:\Users\III\Desktop\ProjectF\ProjectF\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+C:\Users\III\Desktop\ProjectF\ProjectF\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\III\Desktop\ProjectF\ProjectF\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\III\Desktop\ProjectF\ProjectF\obj\Debug\ProjectF.csprojResolveAssemblyReference.cache
+C:\Users\III\Desktop\ProjectF\ProjectF\obj\Debug\ProjectF.dll
+C:\Users\III\Desktop\ProjectF\ProjectF\obj\Debug\ProjectF.pdb
+C:\Users\user\Desktop\ProjectF\ProjectF\bin\roslyn\csc.exe
+C:\Users\user\Desktop\ProjectF\ProjectF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\ProjectF\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\ProjectF\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\ProjectF\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\ProjectF\ProjectF\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\ProjectF\ProjectF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\ProjectF\ProjectF\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\ProjectF\ProjectF\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\ProjectF\ProjectF\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\ProjectF\ProjectF\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\ProjectF\ProjectF\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\ProjectF\ProjectF\bin\ProjectF.dll.config
+C:\Users\user\Desktop\ProjectF\ProjectF\bin\ProjectF.dll
+C:\Users\user\Desktop\ProjectF\ProjectF\bin\ProjectF.pdb
+C:\Users\user\Desktop\ProjectF\ProjectF\bin\EntityFramework.dll
+C:\Users\user\Desktop\ProjectF\ProjectF\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\ProjectF\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\ProjectF\ProjectF\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\ProjectF\ProjectF\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\ProjectF\ProjectF\bin\System.Net.Http.Formatting.dll
+C:\Users\user\Desktop\ProjectF\ProjectF\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\ProjectF\ProjectF\bin\System.Web.Http.dll
+C:\Users\user\Desktop\ProjectF\ProjectF\bin\System.Web.Http.WebHost.dll
+C:\Users\user\Desktop\ProjectF\ProjectF\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\ProjectF\ProjectF\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\ProjectF\ProjectF\bin\System.Web.Webpages.Deployment.dll
+C:\Users\user\Desktop\ProjectF\ProjectF\bin\System.Web.Webpages.dll
+C:\Users\user\Desktop\ProjectF\ProjectF\bin\System.Web.Webpages.Razor.dll
+C:\Users\user\Desktop\ProjectF\ProjectF\bin\EntityFramework.xml
+C:\Users\user\Desktop\ProjectF\ProjectF\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\ProjectF\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\ProjectF\ProjectF\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\ProjectF\ProjectF\bin\System.Net.Http.Formatting.xml
+C:\Users\user\Desktop\ProjectF\ProjectF\bin\System.Web.Http.xml
+C:\Users\user\Desktop\ProjectF\ProjectF\bin\System.Web.Http.WebHost.xml
+C:\Users\user\Desktop\ProjectF\ProjectF\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\ProjectF\ProjectF\bin\System.Web.Webpages.xml
+C:\Users\user\Desktop\ProjectF\ProjectF\bin\System.Web.Webpages.Deployment.xml
+C:\Users\user\Desktop\ProjectF\ProjectF\bin\System.Web.Webpages.Razor.xml
+C:\Users\user\Desktop\ProjectF\ProjectF\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\ProjectF\ProjectF\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\ProjectF\ProjectF\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\user\Desktop\ProjectF\ProjectF\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+C:\Users\user\Desktop\ProjectF\ProjectF\bin\zh-Hant\System.Web.Http.resources.dll
+C:\Users\user\Desktop\ProjectF\ProjectF\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+C:\Users\user\Desktop\ProjectF\ProjectF\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\user\Desktop\ProjectF\ProjectF\bin\zh-Hant\System.Web.Webpages.resources.dll
+C:\Users\user\Desktop\ProjectF\ProjectF\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+C:\Users\user\Desktop\ProjectF\ProjectF\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+C:\Users\user\Desktop\ProjectF\ProjectF\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\user\Desktop\ProjectF\ProjectF\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\user\Desktop\ProjectF\ProjectF\obj\Debug\ProjectF.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\ProjectF\ProjectF\obj\Debug\ProjectF.dll
+C:\Users\user\Desktop\ProjectF\ProjectF\obj\Debug\ProjectF.pdb
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\bin\roslyn\csc.exe
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\bin\roslyn\System.Collections.Immutable.dll
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\bin\roslyn\System.Reflection.Metadata.dll
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\bin\roslyn\vbc.exe
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\bin\roslyn\VBCSCompiler.exe
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\bin\roslyn\VBCSCompiler.exe.config
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\bin\ProjectF.dll.config
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\bin\ProjectF.dll
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\bin\ProjectF.pdb
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\bin\EntityFramework.dll
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\bin\EntityFramework.SqlServer.dll
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\bin\Microsoft.Web.Infrastructure.dll
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\bin\Newtonsoft.Json.dll
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\bin\System.Net.Http.Formatting.dll
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\bin\System.Web.Helpers.dll
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\bin\System.Web.Http.dll
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\bin\System.Web.Http.WebHost.dll
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\bin\System.Web.Mvc.dll
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\bin\System.Web.Razor.dll
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\bin\System.Web.Webpages.Deployment.dll
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\bin\System.Web.Webpages.dll
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\bin\System.Web.Webpages.Razor.dll
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\bin\EntityFramework.xml
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\bin\EntityFramework.SqlServer.xml
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\bin\Newtonsoft.Json.xml
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\bin\System.Net.Http.Formatting.xml
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\bin\System.Web.Http.xml
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\bin\System.Web.Http.WebHost.xml
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\bin\System.Web.Razor.xml
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\bin\System.Web.Webpages.xml
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\bin\System.Web.Webpages.Deployment.xml
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\bin\System.Web.Webpages.Razor.xml
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\bin\System.Web.Helpers.xml
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\bin\System.Web.Mvc.xml
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\bin\zh-Hant\EntityFramework.resources.dll
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\bin\zh-Hant\System.Web.Http.resources.dll
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\bin\zh-Hant\System.Web.Razor.resources.dll
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\bin\zh-Hant\System.Web.Webpages.resources.dll
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\bin\zh-Hant\System.Web.Helpers.resources.dll
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\bin\zh-Hant\System.Web.Mvc.resources.dll
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\obj\Debug\ProjectF.csprojResolveAssemblyReference.cache
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\obj\Debug\ProjectF.dll
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\obj\Debug\ProjectF.pdb
+Z:\Google 雲端硬碟\ProjectF v929\ProjectF\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\obj\Debug\ProjectF.csprojResolveAssemblyReference.cache
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\obj\Debug\ProjectF.dll
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\obj\Debug\ProjectF.pdb
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\bin\roslyn\csc.exe
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\bin\roslyn\System.Collections.Immutable.dll
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\bin\roslyn\System.Reflection.Metadata.dll
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\bin\roslyn\vbc.exe
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\bin\roslyn\VBCSCompiler.exe
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\bin\roslyn\VBCSCompiler.exe.config
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\bin\ProjectF.dll.config
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\bin\ProjectF.dll
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\bin\ProjectF.pdb
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\bin\EntityFramework.dll
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\bin\EntityFramework.SqlServer.dll
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\bin\Microsoft.Web.Infrastructure.dll
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\bin\Newtonsoft.Json.dll
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\bin\System.Net.Http.Formatting.dll
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\bin\System.Web.Helpers.dll
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\bin\System.Web.Http.dll
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\bin\System.Web.Http.WebHost.dll
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\bin\System.Web.Mvc.dll
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\bin\System.Web.Razor.dll
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\bin\System.Web.Webpages.Deployment.dll
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\bin\System.Web.Webpages.dll
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\bin\System.Web.Webpages.Razor.dll
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\bin\EntityFramework.xml
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\bin\EntityFramework.SqlServer.xml
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\bin\Newtonsoft.Json.xml
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\bin\System.Net.Http.Formatting.xml
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\bin\System.Web.Http.xml
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\bin\System.Web.Http.WebHost.xml
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\bin\System.Web.Razor.xml
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\bin\System.Web.Webpages.xml
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\bin\System.Web.Webpages.Deployment.xml
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\bin\System.Web.Webpages.Razor.xml
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\bin\System.Web.Helpers.xml
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\bin\System.Web.Mvc.xml
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\bin\zh-Hant\EntityFramework.resources.dll
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\bin\zh-Hant\System.Web.Http.resources.dll
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\bin\zh-Hant\System.Web.Razor.resources.dll
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\bin\zh-Hant\System.Web.Webpages.resources.dll
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\bin\zh-Hant\System.Web.Helpers.resources.dll
+Z:\Google 雲端硬碟\ProjectF v929_23\ProjectF\bin\zh-Hant\System.Web.Mvc.resources.dll
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\bin\roslyn\csc.exe
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\bin\roslyn\System.Collections.Immutable.dll
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\bin\roslyn\System.Reflection.Metadata.dll
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\bin\roslyn\vbc.exe
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\bin\roslyn\VBCSCompiler.exe
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\bin\roslyn\VBCSCompiler.exe.config
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\bin\ProjectF.dll.config
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\bin\ProjectF.dll
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\bin\ProjectF.pdb
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\bin\EntityFramework.dll
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\bin\EntityFramework.SqlServer.dll
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\bin\Microsoft.Web.Infrastructure.dll
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\bin\Newtonsoft.Json.dll
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\bin\System.Net.Http.Formatting.dll
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\bin\System.Web.Helpers.dll
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\bin\System.Web.Http.dll
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\bin\System.Web.Http.WebHost.dll
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\bin\System.Web.Mvc.dll
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\bin\System.Web.Razor.dll
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\bin\System.Web.Webpages.Deployment.dll
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\bin\System.Web.Webpages.dll
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\bin\System.Web.Webpages.Razor.dll
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\bin\EntityFramework.xml
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\bin\EntityFramework.SqlServer.xml
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\bin\Newtonsoft.Json.xml
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\bin\System.Net.Http.Formatting.xml
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\bin\System.Web.Http.xml
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\bin\System.Web.Http.WebHost.xml
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\bin\System.Web.Razor.xml
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\bin\System.Web.Webpages.xml
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\bin\System.Web.Webpages.Deployment.xml
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\bin\System.Web.Webpages.Razor.xml
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\bin\System.Web.Helpers.xml
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\bin\System.Web.Mvc.xml
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\bin\zh-Hant\EntityFramework.resources.dll
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\bin\zh-Hant\System.Web.Http.resources.dll
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\bin\zh-Hant\System.Web.Razor.resources.dll
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\bin\zh-Hant\System.Web.Webpages.resources.dll
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\bin\zh-Hant\System.Web.Helpers.resources.dll
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\bin\zh-Hant\System.Web.Mvc.resources.dll
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\obj\Debug\ProjectF.csprojResolveAssemblyReference.cache
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\obj\Debug\ProjectF.dll
+Z:\Google 雲端硬碟\ProjectF v930_13\ProjectF\obj\Debug\ProjectF.pdb
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\bin\roslyn\csc.exe
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\bin\roslyn\System.Collections.Immutable.dll
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\bin\roslyn\System.Reflection.Metadata.dll
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\bin\roslyn\vbc.exe
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\bin\roslyn\VBCSCompiler.exe
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\bin\roslyn\VBCSCompiler.exe.config
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\bin\ProjectF.dll.config
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\bin\ProjectF.dll
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\bin\ProjectF.pdb
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\bin\EntityFramework.dll
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\bin\EntityFramework.SqlServer.dll
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\bin\Microsoft.Web.Infrastructure.dll
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\bin\Newtonsoft.Json.dll
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\bin\System.Net.Http.Formatting.dll
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\bin\System.Web.Helpers.dll
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\bin\System.Web.Http.dll
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\bin\System.Web.Http.WebHost.dll
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\bin\System.Web.Mvc.dll
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\bin\System.Web.Razor.dll
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\bin\System.Web.Webpages.Deployment.dll
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\bin\System.Web.Webpages.dll
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\bin\System.Web.Webpages.Razor.dll
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\bin\EntityFramework.xml
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\bin\EntityFramework.SqlServer.xml
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\bin\Newtonsoft.Json.xml
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\bin\System.Net.Http.Formatting.xml
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\bin\System.Web.Http.xml
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\bin\System.Web.Http.WebHost.xml
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\bin\System.Web.Razor.xml
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\bin\System.Web.Webpages.xml
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\bin\System.Web.Webpages.Deployment.xml
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\bin\System.Web.Webpages.Razor.xml
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\bin\System.Web.Helpers.xml
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\bin\System.Web.Mvc.xml
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\bin\zh-Hant\EntityFramework.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\bin\zh-Hant\System.Web.Http.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\bin\zh-Hant\System.Web.Razor.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\bin\zh-Hant\System.Web.Webpages.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\bin\zh-Hant\System.Web.Helpers.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\bin\zh-Hant\System.Web.Mvc.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\obj\Debug\ProjectF.csprojResolveAssemblyReference.cache
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\obj\Debug\ProjectF.dll
+Z:\Google 雲端硬碟\ProjectF v1001_00\ProjectF\obj\Debug\ProjectF.pdb
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\bin\roslyn\csc.exe
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\bin\roslyn\System.Collections.Immutable.dll
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\bin\roslyn\System.Reflection.Metadata.dll
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\bin\roslyn\vbc.exe
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\bin\roslyn\VBCSCompiler.exe
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\bin\roslyn\VBCSCompiler.exe.config
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\bin\ProjectF.dll.config
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\bin\ProjectF.dll
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\bin\ProjectF.pdb
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\bin\EntityFramework.dll
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\bin\EntityFramework.SqlServer.dll
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\bin\Microsoft.Web.Infrastructure.dll
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\bin\Newtonsoft.Json.dll
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\bin\System.Net.Http.Formatting.dll
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\bin\System.Web.Helpers.dll
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\bin\System.Web.Http.dll
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\bin\System.Web.Http.WebHost.dll
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\bin\System.Web.Mvc.dll
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\bin\System.Web.Razor.dll
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\bin\System.Web.Webpages.Deployment.dll
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\bin\System.Web.Webpages.dll
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\bin\System.Web.Webpages.Razor.dll
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\bin\EntityFramework.xml
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\bin\EntityFramework.SqlServer.xml
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\bin\Newtonsoft.Json.xml
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\bin\System.Net.Http.Formatting.xml
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\bin\System.Web.Http.xml
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\bin\System.Web.Http.WebHost.xml
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\bin\System.Web.Razor.xml
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\bin\System.Web.Webpages.xml
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\bin\System.Web.Webpages.Deployment.xml
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\bin\System.Web.Webpages.Razor.xml
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\bin\System.Web.Helpers.xml
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\bin\System.Web.Mvc.xml
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\bin\zh-Hant\EntityFramework.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\bin\zh-Hant\System.Web.Http.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\bin\zh-Hant\System.Web.Razor.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\bin\zh-Hant\System.Web.Webpages.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\bin\zh-Hant\System.Web.Helpers.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\bin\zh-Hant\System.Web.Mvc.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\obj\Debug\ProjectF.csprojResolveAssemblyReference.cache
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\obj\Debug\ProjectF.dll
+Z:\Google 雲端硬碟\ProjectF v1001_23\ProjectF\obj\Debug\ProjectF.pdb
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\bin\roslyn\csc.exe
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\bin\roslyn\System.Collections.Immutable.dll
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\bin\roslyn\System.Reflection.Metadata.dll
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\bin\roslyn\vbc.exe
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\bin\roslyn\VBCSCompiler.exe
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\bin\roslyn\VBCSCompiler.exe.config
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\bin\ProjectF.dll.config
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\bin\ProjectF.dll
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\bin\ProjectF.pdb
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\bin\EntityFramework.dll
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\bin\EntityFramework.SqlServer.dll
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\bin\Microsoft.Web.Infrastructure.dll
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\bin\Newtonsoft.Json.dll
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\bin\System.Net.Http.Formatting.dll
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\bin\System.Web.Helpers.dll
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\bin\System.Web.Http.dll
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\bin\System.Web.Http.WebHost.dll
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\bin\System.Web.Mvc.dll
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\bin\System.Web.Razor.dll
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\bin\System.Web.Webpages.Deployment.dll
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\bin\System.Web.Webpages.dll
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\bin\System.Web.Webpages.Razor.dll
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\bin\EntityFramework.xml
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\bin\EntityFramework.SqlServer.xml
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\bin\Newtonsoft.Json.xml
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\bin\System.Net.Http.Formatting.xml
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\bin\System.Web.Http.xml
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\bin\System.Web.Http.WebHost.xml
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\bin\System.Web.Razor.xml
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\bin\System.Web.Webpages.xml
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\bin\System.Web.Webpages.Deployment.xml
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\bin\System.Web.Webpages.Razor.xml
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\bin\System.Web.Helpers.xml
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\bin\System.Web.Mvc.xml
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\bin\zh-Hant\EntityFramework.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\bin\zh-Hant\System.Web.Http.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\bin\zh-Hant\System.Web.Razor.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\bin\zh-Hant\System.Web.Webpages.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\bin\zh-Hant\System.Web.Helpers.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\bin\zh-Hant\System.Web.Mvc.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\obj\Debug\ProjectF.csprojResolveAssemblyReference.cache
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\obj\Debug\ProjectF.dll
+Z:\Google 雲端硬碟\ProjectF v1002_11\ProjectF\obj\Debug\ProjectF.pdb
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\bin\roslyn\csc.exe
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\bin\roslyn\System.Collections.Immutable.dll
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\bin\roslyn\System.Reflection.Metadata.dll
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\bin\roslyn\vbc.exe
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\bin\roslyn\VBCSCompiler.exe
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\bin\roslyn\VBCSCompiler.exe.config
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\bin\ProjectF.dll.config
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\bin\ProjectF.dll
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\bin\ProjectF.pdb
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\bin\EntityFramework.dll
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\bin\EntityFramework.SqlServer.dll
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\bin\Microsoft.Web.Infrastructure.dll
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\bin\Newtonsoft.Json.dll
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\bin\System.Net.Http.Formatting.dll
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\bin\System.Web.Helpers.dll
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\bin\System.Web.Http.dll
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\bin\System.Web.Http.WebHost.dll
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\bin\System.Web.Mvc.dll
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\bin\System.Web.Razor.dll
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\bin\System.Web.Webpages.Deployment.dll
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\bin\System.Web.Webpages.dll
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\bin\System.Web.Webpages.Razor.dll
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\bin\EntityFramework.xml
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\bin\EntityFramework.SqlServer.xml
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\bin\Newtonsoft.Json.xml
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\bin\System.Net.Http.Formatting.xml
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\bin\System.Web.Http.xml
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\bin\System.Web.Http.WebHost.xml
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\bin\System.Web.Razor.xml
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\bin\System.Web.Webpages.xml
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\bin\System.Web.Webpages.Deployment.xml
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\bin\System.Web.Webpages.Razor.xml
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\bin\System.Web.Helpers.xml
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\bin\System.Web.Mvc.xml
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\bin\zh-Hant\EntityFramework.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\bin\zh-Hant\System.Web.Http.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\bin\zh-Hant\System.Web.Razor.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\bin\zh-Hant\System.Web.Webpages.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\bin\zh-Hant\System.Web.Helpers.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\bin\zh-Hant\System.Web.Mvc.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\obj\Debug\ProjectF.csprojResolveAssemblyReference.cache
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\obj\Debug\ProjectF.dll
+Z:\Google 雲端硬碟\ProjectF v1002_17\ProjectF\obj\Debug\ProjectF.pdb
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\bin\roslyn\csc.exe
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\bin\roslyn\System.Collections.Immutable.dll
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\bin\roslyn\System.Reflection.Metadata.dll
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\bin\roslyn\vbc.exe
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\bin\roslyn\VBCSCompiler.exe
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\bin\roslyn\VBCSCompiler.exe.config
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\bin\ProjectF.dll.config
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\bin\ProjectF.dll
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\bin\ProjectF.pdb
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\bin\EntityFramework.dll
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\bin\EntityFramework.SqlServer.dll
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\bin\Microsoft.Web.Infrastructure.dll
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\bin\Newtonsoft.Json.dll
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\bin\System.Net.Http.Formatting.dll
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\bin\System.Web.Helpers.dll
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\bin\System.Web.Http.dll
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\bin\System.Web.Http.WebHost.dll
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\bin\System.Web.Mvc.dll
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\bin\System.Web.Razor.dll
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\bin\System.Web.Webpages.Deployment.dll
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\bin\System.Web.Webpages.dll
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\bin\System.Web.Webpages.Razor.dll
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\bin\EntityFramework.xml
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\bin\EntityFramework.SqlServer.xml
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\bin\Newtonsoft.Json.xml
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\bin\System.Net.Http.Formatting.xml
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\bin\System.Web.Http.xml
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\bin\System.Web.Http.WebHost.xml
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\bin\System.Web.Razor.xml
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\bin\System.Web.Webpages.xml
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\bin\System.Web.Webpages.Deployment.xml
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\bin\System.Web.Webpages.Razor.xml
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\bin\System.Web.Helpers.xml
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\bin\System.Web.Mvc.xml
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\bin\zh-Hant\EntityFramework.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\bin\zh-Hant\System.Web.Http.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\bin\zh-Hant\System.Web.Razor.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\bin\zh-Hant\System.Web.Webpages.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\bin\zh-Hant\System.Web.Helpers.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\bin\zh-Hant\System.Web.Mvc.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\obj\Debug\ProjectF.csprojResolveAssemblyReference.cache
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\obj\Debug\ProjectF.dll
+Z:\Google 雲端硬碟\ProjectF v1002_20\ProjectF\obj\Debug\ProjectF.pdb
+E:\資策專題\ProjectF v1002_23\ProjectF\bin\roslyn\csc.exe
+E:\資策專題\ProjectF v1002_23\ProjectF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\資策專題\ProjectF v1002_23\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\資策專題\ProjectF v1002_23\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\資策專題\ProjectF v1002_23\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\資策專題\ProjectF v1002_23\ProjectF\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\資策專題\ProjectF v1002_23\ProjectF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\資策專題\ProjectF v1002_23\ProjectF\bin\roslyn\System.Collections.Immutable.dll
+E:\資策專題\ProjectF v1002_23\ProjectF\bin\roslyn\System.Reflection.Metadata.dll
+E:\資策專題\ProjectF v1002_23\ProjectF\bin\roslyn\vbc.exe
+E:\資策專題\ProjectF v1002_23\ProjectF\bin\roslyn\VBCSCompiler.exe
+E:\資策專題\ProjectF v1002_23\ProjectF\bin\roslyn\VBCSCompiler.exe.config
+E:\資策專題\ProjectF v1002_23\ProjectF\bin\ProjectF.dll.config
+E:\資策專題\ProjectF v1002_23\ProjectF\bin\ProjectF.dll
+E:\資策專題\ProjectF v1002_23\ProjectF\bin\ProjectF.pdb
+E:\資策專題\ProjectF v1002_23\ProjectF\bin\EntityFramework.dll
+E:\資策專題\ProjectF v1002_23\ProjectF\bin\EntityFramework.SqlServer.dll
+E:\資策專題\ProjectF v1002_23\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\資策專題\ProjectF v1002_23\ProjectF\bin\Microsoft.Web.Infrastructure.dll
+E:\資策專題\ProjectF v1002_23\ProjectF\bin\Newtonsoft.Json.dll
+E:\資策專題\ProjectF v1002_23\ProjectF\bin\System.Net.Http.Formatting.dll
+E:\資策專題\ProjectF v1002_23\ProjectF\bin\System.Web.Helpers.dll
+E:\資策專題\ProjectF v1002_23\ProjectF\bin\System.Web.Http.dll
+E:\資策專題\ProjectF v1002_23\ProjectF\bin\System.Web.Http.WebHost.dll
+E:\資策專題\ProjectF v1002_23\ProjectF\bin\System.Web.Mvc.dll
+E:\資策專題\ProjectF v1002_23\ProjectF\bin\System.Web.Razor.dll
+E:\資策專題\ProjectF v1002_23\ProjectF\bin\System.Web.Webpages.Deployment.dll
+E:\資策專題\ProjectF v1002_23\ProjectF\bin\System.Web.Webpages.dll
+E:\資策專題\ProjectF v1002_23\ProjectF\bin\System.Web.Webpages.Razor.dll
+E:\資策專題\ProjectF v1002_23\ProjectF\bin\EntityFramework.xml
+E:\資策專題\ProjectF v1002_23\ProjectF\bin\EntityFramework.SqlServer.xml
+E:\資策專題\ProjectF v1002_23\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\資策專題\ProjectF v1002_23\ProjectF\bin\Newtonsoft.Json.xml
+E:\資策專題\ProjectF v1002_23\ProjectF\bin\System.Net.Http.Formatting.xml
+E:\資策專題\ProjectF v1002_23\ProjectF\bin\System.Web.Http.xml
+E:\資策專題\ProjectF v1002_23\ProjectF\bin\System.Web.Http.WebHost.xml
+E:\資策專題\ProjectF v1002_23\ProjectF\bin\System.Web.Razor.xml
+E:\資策專題\ProjectF v1002_23\ProjectF\bin\System.Web.Webpages.xml
+E:\資策專題\ProjectF v1002_23\ProjectF\bin\System.Web.Webpages.Deployment.xml
+E:\資策專題\ProjectF v1002_23\ProjectF\bin\System.Web.Webpages.Razor.xml
+E:\資策專題\ProjectF v1002_23\ProjectF\bin\System.Web.Helpers.xml
+E:\資策專題\ProjectF v1002_23\ProjectF\bin\System.Web.Mvc.xml
+E:\資策專題\ProjectF v1002_23\ProjectF\bin\zh-Hant\EntityFramework.resources.dll
+E:\資策專題\ProjectF v1002_23\ProjectF\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+E:\資策專題\ProjectF v1002_23\ProjectF\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+E:\資策專題\ProjectF v1002_23\ProjectF\bin\zh-Hant\System.Web.Http.resources.dll
+E:\資策專題\ProjectF v1002_23\ProjectF\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+E:\資策專題\ProjectF v1002_23\ProjectF\bin\zh-Hant\System.Web.Razor.resources.dll
+E:\資策專題\ProjectF v1002_23\ProjectF\bin\zh-Hant\System.Web.Webpages.resources.dll
+E:\資策專題\ProjectF v1002_23\ProjectF\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+E:\資策專題\ProjectF v1002_23\ProjectF\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+E:\資策專題\ProjectF v1002_23\ProjectF\bin\zh-Hant\System.Web.Helpers.resources.dll
+E:\資策專題\ProjectF v1002_23\ProjectF\bin\zh-Hant\System.Web.Mvc.resources.dll
+E:\資策專題\ProjectF v1002_23\ProjectF\obj\Debug\ProjectF.csprojResolveAssemblyReference.cache
+E:\資策專題\ProjectF v1002_23\ProjectF\obj\Debug\ProjectF.dll
+E:\資策專題\ProjectF v1002_23\ProjectF\obj\Debug\ProjectF.pdb
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\bin\roslyn\csc.exe
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\bin\roslyn\vbc.exe
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\bin\roslyn\VBCSCompiler.exe
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\bin\ProjectF.dll.config
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\bin\ProjectF.dll
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\bin\ProjectF.pdb
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\bin\EntityFramework.dll
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\bin\EntityFramework.SqlServer.dll
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\bin\Newtonsoft.Json.dll
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\bin\System.Net.Http.Formatting.dll
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\bin\System.Web.Helpers.dll
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\bin\System.Web.Http.dll
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\bin\System.Web.Http.WebHost.dll
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\bin\System.Web.Mvc.dll
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\bin\System.Web.Razor.dll
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\bin\System.Web.Webpages.Deployment.dll
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\bin\System.Web.Webpages.dll
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\bin\System.Web.Webpages.Razor.dll
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\bin\EntityFramework.xml
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\bin\EntityFramework.SqlServer.xml
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\bin\Newtonsoft.Json.xml
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\bin\System.Net.Http.Formatting.xml
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\bin\System.Web.Http.xml
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\bin\System.Web.Http.WebHost.xml
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\bin\System.Web.Razor.xml
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\bin\System.Web.Webpages.xml
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\bin\System.Web.Webpages.Deployment.xml
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\bin\System.Web.Webpages.Razor.xml
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\bin\System.Web.Helpers.xml
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\bin\System.Web.Mvc.xml
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\bin\zh-Hant\System.Web.Http.resources.dll
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\bin\zh-Hant\System.Web.Webpages.resources.dll
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\obj\Debug\ProjectF.csprojResolveAssemblyReference.cache
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\obj\Debug\ProjectF.dll
+C:\Users\III\Desktop\ProjectF v1002_23\ProjectF\obj\Debug\ProjectF.pdb
+F:\資策專題\ProjectF v1003_12\ProjectF\bin\roslyn\csc.exe
+F:\資策專題\ProjectF v1003_12\ProjectF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\資策專題\ProjectF v1003_12\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\資策專題\ProjectF v1003_12\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\資策專題\ProjectF v1003_12\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\資策專題\ProjectF v1003_12\ProjectF\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\資策專題\ProjectF v1003_12\ProjectF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\資策專題\ProjectF v1003_12\ProjectF\bin\roslyn\System.Collections.Immutable.dll
+F:\資策專題\ProjectF v1003_12\ProjectF\bin\roslyn\System.Reflection.Metadata.dll
+F:\資策專題\ProjectF v1003_12\ProjectF\bin\roslyn\vbc.exe
+F:\資策專題\ProjectF v1003_12\ProjectF\bin\roslyn\VBCSCompiler.exe
+F:\資策專題\ProjectF v1003_12\ProjectF\bin\roslyn\VBCSCompiler.exe.config
+F:\資策專題\ProjectF v1003_12\ProjectF\bin\ProjectF.dll.config
+F:\資策專題\ProjectF v1003_12\ProjectF\bin\ProjectF.dll
+F:\資策專題\ProjectF v1003_12\ProjectF\bin\ProjectF.pdb
+F:\資策專題\ProjectF v1003_12\ProjectF\bin\EntityFramework.dll
+F:\資策專題\ProjectF v1003_12\ProjectF\bin\EntityFramework.SqlServer.dll
+F:\資策專題\ProjectF v1003_12\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\資策專題\ProjectF v1003_12\ProjectF\bin\Microsoft.Web.Infrastructure.dll
+F:\資策專題\ProjectF v1003_12\ProjectF\bin\Newtonsoft.Json.dll
+F:\資策專題\ProjectF v1003_12\ProjectF\bin\System.Net.Http.Formatting.dll
+F:\資策專題\ProjectF v1003_12\ProjectF\bin\System.Web.Helpers.dll
+F:\資策專題\ProjectF v1003_12\ProjectF\bin\System.Web.Http.dll
+F:\資策專題\ProjectF v1003_12\ProjectF\bin\System.Web.Http.WebHost.dll
+F:\資策專題\ProjectF v1003_12\ProjectF\bin\System.Web.Mvc.dll
+F:\資策專題\ProjectF v1003_12\ProjectF\bin\System.Web.Razor.dll
+F:\資策專題\ProjectF v1003_12\ProjectF\bin\System.Web.Webpages.Deployment.dll
+F:\資策專題\ProjectF v1003_12\ProjectF\bin\System.Web.Webpages.dll
+F:\資策專題\ProjectF v1003_12\ProjectF\bin\System.Web.Webpages.Razor.dll
+F:\資策專題\ProjectF v1003_12\ProjectF\bin\EntityFramework.xml
+F:\資策專題\ProjectF v1003_12\ProjectF\bin\EntityFramework.SqlServer.xml
+F:\資策專題\ProjectF v1003_12\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\資策專題\ProjectF v1003_12\ProjectF\bin\Newtonsoft.Json.xml
+F:\資策專題\ProjectF v1003_12\ProjectF\bin\System.Net.Http.Formatting.xml
+F:\資策專題\ProjectF v1003_12\ProjectF\bin\System.Web.Http.xml
+F:\資策專題\ProjectF v1003_12\ProjectF\bin\System.Web.Http.WebHost.xml
+F:\資策專題\ProjectF v1003_12\ProjectF\bin\System.Web.Razor.xml
+F:\資策專題\ProjectF v1003_12\ProjectF\bin\System.Web.Webpages.xml
+F:\資策專題\ProjectF v1003_12\ProjectF\bin\System.Web.Webpages.Deployment.xml
+F:\資策專題\ProjectF v1003_12\ProjectF\bin\System.Web.Webpages.Razor.xml
+F:\資策專題\ProjectF v1003_12\ProjectF\bin\System.Web.Helpers.xml
+F:\資策專題\ProjectF v1003_12\ProjectF\bin\System.Web.Mvc.xml
+F:\資策專題\ProjectF v1003_12\ProjectF\bin\zh-Hant\EntityFramework.resources.dll
+F:\資策專題\ProjectF v1003_12\ProjectF\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+F:\資策專題\ProjectF v1003_12\ProjectF\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+F:\資策專題\ProjectF v1003_12\ProjectF\bin\zh-Hant\System.Web.Http.resources.dll
+F:\資策專題\ProjectF v1003_12\ProjectF\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+F:\資策專題\ProjectF v1003_12\ProjectF\bin\zh-Hant\System.Web.Razor.resources.dll
+F:\資策專題\ProjectF v1003_12\ProjectF\bin\zh-Hant\System.Web.Webpages.resources.dll
+F:\資策專題\ProjectF v1003_12\ProjectF\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+F:\資策專題\ProjectF v1003_12\ProjectF\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+F:\資策專題\ProjectF v1003_12\ProjectF\bin\zh-Hant\System.Web.Helpers.resources.dll
+F:\資策專題\ProjectF v1003_12\ProjectF\bin\zh-Hant\System.Web.Mvc.resources.dll
+F:\資策專題\ProjectF v1003_12\ProjectF\obj\Debug\ProjectF.csprojResolveAssemblyReference.cache
+F:\資策專題\ProjectF v1003_12\ProjectF\obj\Debug\ProjectF.dll
+F:\資策專題\ProjectF v1003_12\ProjectF\obj\Debug\ProjectF.pdb
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\bin\roslyn\csc.exe
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\bin\roslyn\System.Collections.Immutable.dll
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\bin\roslyn\System.Reflection.Metadata.dll
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\bin\roslyn\vbc.exe
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\bin\roslyn\VBCSCompiler.exe
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\bin\roslyn\VBCSCompiler.exe.config
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\bin\ProjectF.dll.config
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\bin\ProjectF.dll
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\bin\ProjectF.pdb
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\bin\EntityFramework.dll
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\bin\EntityFramework.SqlServer.dll
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\bin\Microsoft.Web.Infrastructure.dll
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\bin\Newtonsoft.Json.dll
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\bin\System.Net.Http.Formatting.dll
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\bin\System.Web.Helpers.dll
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\bin\System.Web.Http.dll
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\bin\System.Web.Http.WebHost.dll
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\bin\System.Web.Mvc.dll
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\bin\System.Web.Razor.dll
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\bin\System.Web.Webpages.Deployment.dll
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\bin\System.Web.Webpages.dll
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\bin\System.Web.Webpages.Razor.dll
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\bin\EntityFramework.xml
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\bin\EntityFramework.SqlServer.xml
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\bin\Newtonsoft.Json.xml
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\bin\System.Net.Http.Formatting.xml
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\bin\System.Web.Http.xml
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\bin\System.Web.Http.WebHost.xml
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\bin\System.Web.Razor.xml
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\bin\System.Web.Webpages.xml
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\bin\System.Web.Webpages.Deployment.xml
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\bin\System.Web.Webpages.Razor.xml
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\bin\System.Web.Helpers.xml
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\bin\System.Web.Mvc.xml
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\bin\zh-Hant\EntityFramework.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\bin\zh-Hant\System.Web.Http.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\bin\zh-Hant\System.Web.Razor.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\bin\zh-Hant\System.Web.Webpages.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\bin\zh-Hant\System.Web.Helpers.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\bin\zh-Hant\System.Web.Mvc.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\obj\Debug\ProjectF.csprojResolveAssemblyReference.cache
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\obj\Debug\ProjectF.dll
+Z:\Google 雲端硬碟\ProjectF v1003_12\ProjectF\obj\Debug\ProjectF.pdb
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\bin\roslyn\csc.exe
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\bin\roslyn\System.Collections.Immutable.dll
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\bin\roslyn\System.Reflection.Metadata.dll
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\bin\roslyn\vbc.exe
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\bin\roslyn\VBCSCompiler.exe
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\bin\roslyn\VBCSCompiler.exe.config
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\bin\ProjectF.dll.config
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\bin\ProjectF.dll
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\bin\ProjectF.pdb
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\bin\EntityFramework.dll
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\bin\EntityFramework.SqlServer.dll
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\bin\Microsoft.Web.Infrastructure.dll
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\bin\Newtonsoft.Json.dll
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\bin\System.Net.Http.Formatting.dll
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\bin\System.Web.Helpers.dll
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\bin\System.Web.Http.dll
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\bin\System.Web.Http.WebHost.dll
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\bin\System.Web.Mvc.dll
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\bin\System.Web.Razor.dll
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\bin\System.Web.Webpages.Deployment.dll
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\bin\System.Web.Webpages.dll
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\bin\System.Web.Webpages.Razor.dll
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\bin\EntityFramework.xml
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\bin\EntityFramework.SqlServer.xml
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\bin\Newtonsoft.Json.xml
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\bin\System.Net.Http.Formatting.xml
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\bin\System.Web.Http.xml
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\bin\System.Web.Http.WebHost.xml
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\bin\System.Web.Razor.xml
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\bin\System.Web.Webpages.xml
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\bin\System.Web.Webpages.Deployment.xml
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\bin\System.Web.Webpages.Razor.xml
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\bin\System.Web.Helpers.xml
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\bin\System.Web.Mvc.xml
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\bin\zh-Hant\EntityFramework.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\bin\zh-Hant\System.Web.Http.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\bin\zh-Hant\System.Web.Razor.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\bin\zh-Hant\System.Web.Webpages.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\bin\zh-Hant\System.Web.Helpers.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\bin\zh-Hant\System.Web.Mvc.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\obj\Debug\ProjectF.csprojResolveAssemblyReference.cache
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\obj\Debug\ProjectF.dll
+Z:\Google 雲端硬碟\ProjectF v1004_18\ProjectF\obj\Debug\ProjectF.pdb
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\bin\roslyn\csc.exe
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\bin\roslyn\System.Collections.Immutable.dll
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\bin\roslyn\System.Reflection.Metadata.dll
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\bin\roslyn\vbc.exe
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\bin\roslyn\VBCSCompiler.exe
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\bin\roslyn\VBCSCompiler.exe.config
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\bin\ProjectF.dll.config
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\bin\ProjectF.dll
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\bin\ProjectF.pdb
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\bin\EntityFramework.dll
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\bin\EntityFramework.SqlServer.dll
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\bin\Microsoft.Web.Infrastructure.dll
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\bin\Newtonsoft.Json.dll
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\bin\System.Net.Http.Formatting.dll
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\bin\System.Web.Helpers.dll
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\bin\System.Web.Http.dll
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\bin\System.Web.Http.WebHost.dll
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\bin\System.Web.Mvc.dll
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\bin\System.Web.Razor.dll
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\bin\System.Web.Webpages.Deployment.dll
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\bin\System.Web.Webpages.dll
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\bin\System.Web.Webpages.Razor.dll
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\bin\EntityFramework.xml
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\bin\EntityFramework.SqlServer.xml
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\bin\Newtonsoft.Json.xml
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\bin\System.Net.Http.Formatting.xml
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\bin\System.Web.Http.xml
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\bin\System.Web.Http.WebHost.xml
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\bin\System.Web.Razor.xml
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\bin\System.Web.Webpages.xml
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\bin\System.Web.Webpages.Deployment.xml
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\bin\System.Web.Webpages.Razor.xml
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\bin\System.Web.Helpers.xml
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\bin\System.Web.Mvc.xml
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\bin\zh-Hant\EntityFramework.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\bin\zh-Hant\System.Web.Http.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\bin\zh-Hant\System.Web.Razor.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\bin\zh-Hant\System.Web.Webpages.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\bin\zh-Hant\System.Web.Helpers.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\bin\zh-Hant\System.Web.Mvc.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\obj\Debug\ProjectF.csprojResolveAssemblyReference.cache
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\obj\Debug\ProjectF.dll
+Z:\Google 雲端硬碟\ProjectF v1005_12\ProjectF\obj\Debug\ProjectF.pdb
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\bin\roslyn\csc.exe
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\bin\roslyn\System.Collections.Immutable.dll
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\bin\roslyn\System.Reflection.Metadata.dll
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\bin\roslyn\vbc.exe
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\bin\roslyn\VBCSCompiler.exe
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\bin\roslyn\VBCSCompiler.exe.config
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\bin\ProjectF.dll.config
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\bin\ProjectF.dll
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\bin\ProjectF.pdb
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\bin\EntityFramework.dll
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\bin\EntityFramework.SqlServer.dll
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\bin\Microsoft.Web.Infrastructure.dll
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\bin\Newtonsoft.Json.dll
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\bin\System.Net.Http.Formatting.dll
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\bin\System.Web.Helpers.dll
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\bin\System.Web.Http.dll
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\bin\System.Web.Http.WebHost.dll
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\bin\System.Web.Mvc.dll
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\bin\System.Web.Razor.dll
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\bin\System.Web.Webpages.Deployment.dll
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\bin\System.Web.Webpages.dll
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\bin\System.Web.Webpages.Razor.dll
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\bin\EntityFramework.xml
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\bin\EntityFramework.SqlServer.xml
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\bin\Newtonsoft.Json.xml
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\bin\System.Net.Http.Formatting.xml
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\bin\System.Web.Http.xml
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\bin\System.Web.Http.WebHost.xml
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\bin\System.Web.Razor.xml
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\bin\System.Web.Webpages.xml
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\bin\System.Web.Webpages.Deployment.xml
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\bin\System.Web.Webpages.Razor.xml
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\bin\System.Web.Helpers.xml
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\bin\System.Web.Mvc.xml
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\bin\zh-Hant\EntityFramework.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\bin\zh-Hant\System.Web.Http.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\bin\zh-Hant\System.Web.Razor.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\bin\zh-Hant\System.Web.Webpages.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\bin\zh-Hant\System.Web.Helpers.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\bin\zh-Hant\System.Web.Mvc.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\obj\Debug\ProjectF.csprojResolveAssemblyReference.cache
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\obj\Debug\ProjectF.dll
+Z:\Google 雲端硬碟\ProjectF v1005_15\ProjectF\obj\Debug\ProjectF.pdb
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\bin\roslyn\csc.exe
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\bin\roslyn\System.Collections.Immutable.dll
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\bin\roslyn\System.Reflection.Metadata.dll
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\bin\roslyn\vbc.exe
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\bin\roslyn\VBCSCompiler.exe
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\bin\roslyn\VBCSCompiler.exe.config
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\bin\ProjectF.dll.config
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\bin\ProjectF.dll
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\bin\ProjectF.pdb
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\bin\EntityFramework.dll
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\bin\EntityFramework.SqlServer.dll
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\bin\Microsoft.Web.Infrastructure.dll
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\bin\Newtonsoft.Json.dll
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\bin\System.Net.Http.Formatting.dll
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\bin\System.Web.Helpers.dll
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\bin\System.Web.Http.dll
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\bin\System.Web.Http.WebHost.dll
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\bin\System.Web.Mvc.dll
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\bin\System.Web.Razor.dll
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\bin\System.Web.Webpages.Deployment.dll
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\bin\System.Web.Webpages.dll
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\bin\System.Web.Webpages.Razor.dll
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\bin\EntityFramework.xml
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\bin\EntityFramework.SqlServer.xml
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\bin\Newtonsoft.Json.xml
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\bin\System.Net.Http.Formatting.xml
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\bin\System.Web.Http.xml
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\bin\System.Web.Http.WebHost.xml
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\bin\System.Web.Razor.xml
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\bin\System.Web.Webpages.xml
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\bin\System.Web.Webpages.Deployment.xml
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\bin\System.Web.Webpages.Razor.xml
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\bin\System.Web.Helpers.xml
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\bin\System.Web.Mvc.xml
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\bin\zh-Hant\EntityFramework.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\bin\zh-Hant\System.Web.Http.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\bin\zh-Hant\System.Web.Razor.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\bin\zh-Hant\System.Web.Webpages.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\bin\zh-Hant\System.Web.Helpers.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\bin\zh-Hant\System.Web.Mvc.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\obj\Debug\ProjectF.csprojResolveAssemblyReference.cache
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\obj\Debug\ProjectF.dll
+Z:\Google 雲端硬碟\ProjectF v1005_16\ProjectF\obj\Debug\ProjectF.pdb
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\bin\roslyn\csc.exe
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\bin\roslyn\System.Collections.Immutable.dll
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\bin\roslyn\System.Reflection.Metadata.dll
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\bin\roslyn\vbc.exe
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\bin\roslyn\VBCSCompiler.exe
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\bin\roslyn\VBCSCompiler.exe.config
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\bin\ProjectF.dll.config
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\bin\ProjectF.dll
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\bin\ProjectF.pdb
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\bin\EntityFramework.dll
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\bin\EntityFramework.SqlServer.dll
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\bin\Microsoft.Web.Infrastructure.dll
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\bin\Newtonsoft.Json.dll
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\bin\System.Net.Http.Formatting.dll
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\bin\System.Web.Helpers.dll
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\bin\System.Web.Http.dll
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\bin\System.Web.Http.WebHost.dll
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\bin\System.Web.Mvc.dll
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\bin\System.Web.Razor.dll
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\bin\System.Web.Webpages.Deployment.dll
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\bin\System.Web.Webpages.dll
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\bin\System.Web.Webpages.Razor.dll
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\bin\EntityFramework.xml
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\bin\EntityFramework.SqlServer.xml
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\bin\Newtonsoft.Json.xml
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\bin\System.Net.Http.Formatting.xml
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\bin\System.Web.Http.xml
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\bin\System.Web.Http.WebHost.xml
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\bin\System.Web.Razor.xml
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\bin\System.Web.Webpages.xml
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\bin\System.Web.Webpages.Deployment.xml
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\bin\System.Web.Webpages.Razor.xml
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\bin\System.Web.Helpers.xml
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\bin\System.Web.Mvc.xml
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\bin\zh-Hant\EntityFramework.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\bin\zh-Hant\System.Web.Http.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\bin\zh-Hant\System.Web.Razor.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\bin\zh-Hant\System.Web.Webpages.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\bin\zh-Hant\System.Web.Helpers.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\bin\zh-Hant\System.Web.Mvc.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\obj\Debug\ProjectF.csprojResolveAssemblyReference.cache
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\obj\Debug\ProjectF.dll
+Z:\Google 雲端硬碟\ProjectF v1005_17\ProjectF\obj\Debug\ProjectF.pdb
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\bin\roslyn\csc.exe
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\bin\roslyn\System.Collections.Immutable.dll
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\bin\roslyn\System.Reflection.Metadata.dll
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\bin\roslyn\vbc.exe
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\bin\roslyn\VBCSCompiler.exe
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\bin\roslyn\VBCSCompiler.exe.config
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\bin\ProjectF.dll.config
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\bin\ProjectF.dll
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\bin\ProjectF.pdb
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\bin\EntityFramework.dll
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\bin\EntityFramework.SqlServer.dll
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\bin\Microsoft.Web.Infrastructure.dll
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\bin\Newtonsoft.Json.dll
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\bin\System.Net.Http.Formatting.dll
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\bin\System.Web.Helpers.dll
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\bin\System.Web.Http.dll
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\bin\System.Web.Http.WebHost.dll
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\bin\System.Web.Mvc.dll
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\bin\System.Web.Razor.dll
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\bin\System.Web.Webpages.Deployment.dll
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\bin\System.Web.Webpages.dll
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\bin\System.Web.Webpages.Razor.dll
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\bin\EntityFramework.xml
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\bin\EntityFramework.SqlServer.xml
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\bin\Newtonsoft.Json.xml
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\bin\System.Net.Http.Formatting.xml
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\bin\System.Web.Http.xml
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\bin\System.Web.Http.WebHost.xml
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\bin\System.Web.Razor.xml
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\bin\System.Web.Webpages.xml
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\bin\System.Web.Webpages.Deployment.xml
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\bin\System.Web.Webpages.Razor.xml
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\bin\System.Web.Helpers.xml
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\bin\System.Web.Mvc.xml
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\bin\zh-Hant\EntityFramework.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\bin\zh-Hant\System.Web.Http.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\bin\zh-Hant\System.Web.Razor.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\bin\zh-Hant\System.Web.Webpages.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\bin\zh-Hant\System.Web.Helpers.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\bin\zh-Hant\System.Web.Mvc.resources.dll
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\obj\Debug\ProjectF.csprojResolveAssemblyReference.cache
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\obj\Debug\ProjectF.dll
+Z:\Google 雲端硬碟\ProjectF v1005_19\ProjectF\obj\Debug\ProjectF.pdb
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\bin\roslyn\csc.exe
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\bin\roslyn\vbc.exe
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\bin\roslyn\VBCSCompiler.exe
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\bin\ProjectF.dll.config
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\bin\ProjectF.dll
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\bin\ProjectF.pdb
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\bin\EntityFramework.dll
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\bin\EntityFramework.SqlServer.dll
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\bin\Newtonsoft.Json.dll
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\bin\System.Net.Http.Formatting.dll
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\bin\System.Web.Helpers.dll
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\bin\System.Web.Http.dll
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\bin\System.Web.Http.WebHost.dll
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\bin\System.Web.Mvc.dll
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\bin\System.Web.Razor.dll
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\bin\System.Web.Webpages.Deployment.dll
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\bin\System.Web.Webpages.dll
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\bin\System.Web.Webpages.Razor.dll
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\bin\EntityFramework.xml
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\bin\EntityFramework.SqlServer.xml
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\bin\Newtonsoft.Json.xml
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\bin\System.Net.Http.Formatting.xml
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\bin\System.Web.Http.xml
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\bin\System.Web.Http.WebHost.xml
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\bin\System.Web.Razor.xml
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\bin\System.Web.Webpages.xml
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\bin\System.Web.Webpages.Deployment.xml
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\bin\System.Web.Webpages.Razor.xml
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\bin\System.Web.Helpers.xml
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\bin\System.Web.Mvc.xml
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\bin\zh-Hant\System.Web.Http.resources.dll
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\bin\zh-Hant\System.Web.Webpages.resources.dll
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\obj\Debug\ProjectF.csprojResolveAssemblyReference.cache
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\obj\Debug\ProjectF.dll
+C:\Users\III\Desktop\ProjectF v1005_19\ProjectF\obj\Debug\ProjectF.pdb
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\bin\roslyn\csc.exe
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\bin\roslyn\vbc.exe
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\bin\roslyn\VBCSCompiler.exe
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\bin\ProjectF.dll.config
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\bin\ProjectF.dll
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\bin\ProjectF.pdb
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\bin\EntityFramework.dll
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\bin\EntityFramework.SqlServer.dll
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\bin\Newtonsoft.Json.dll
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\bin\System.Net.Http.Formatting.dll
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\bin\System.Web.Helpers.dll
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\bin\System.Web.Http.dll
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\bin\System.Web.Http.WebHost.dll
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\bin\System.Web.Mvc.dll
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\bin\System.Web.Razor.dll
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\bin\System.Web.Webpages.Deployment.dll
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\bin\System.Web.Webpages.dll
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\bin\System.Web.Webpages.Razor.dll
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\bin\EntityFramework.xml
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\bin\EntityFramework.SqlServer.xml
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\bin\Newtonsoft.Json.xml
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\bin\System.Net.Http.Formatting.xml
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\bin\System.Web.Http.xml
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\bin\System.Web.Http.WebHost.xml
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\bin\System.Web.Razor.xml
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\bin\System.Web.Webpages.xml
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\bin\System.Web.Webpages.Deployment.xml
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\bin\System.Web.Webpages.Razor.xml
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\bin\System.Web.Helpers.xml
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\bin\System.Web.Mvc.xml
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\bin\zh-Hant\System.Web.Http.resources.dll
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\bin\zh-Hant\System.Web.Webpages.resources.dll
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\obj\Debug\ProjectF.csprojResolveAssemblyReference.cache
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\obj\Debug\ProjectF.dll
+C:\Users\III\Desktop\ProjectF v1006_16\ProjectF\obj\Debug\ProjectF.pdb
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\bin\roslyn\csc.exe
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\bin\roslyn\System.Collections.Immutable.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\bin\roslyn\System.Reflection.Metadata.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\bin\roslyn\vbc.exe
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\bin\roslyn\VBCSCompiler.exe
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\bin\roslyn\VBCSCompiler.exe.config
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\bin\ProjectF.dll.config
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\bin\ProjectF.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\bin\ProjectF.pdb
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\bin\EntityFramework.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\bin\EntityFramework.SqlServer.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\bin\Microsoft.Web.Infrastructure.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\bin\Newtonsoft.Json.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\bin\System.Net.Http.Formatting.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\bin\System.Web.Helpers.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\bin\System.Web.Http.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\bin\System.Web.Http.WebHost.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\bin\System.Web.Mvc.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\bin\System.Web.Razor.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\bin\System.Web.Webpages.Deployment.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\bin\System.Web.Webpages.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\bin\System.Web.Webpages.Razor.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\bin\EntityFramework.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\bin\EntityFramework.SqlServer.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\bin\Newtonsoft.Json.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\bin\System.Net.Http.Formatting.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\bin\System.Web.Http.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\bin\System.Web.Http.WebHost.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\bin\System.Web.Razor.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\bin\System.Web.Webpages.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\bin\System.Web.Webpages.Deployment.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\bin\System.Web.Webpages.Razor.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\bin\System.Web.Helpers.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\bin\System.Web.Mvc.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\bin\zh-Hant\EntityFramework.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\bin\zh-Hant\System.Web.Http.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\bin\zh-Hant\System.Web.Razor.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\bin\zh-Hant\System.Web.Webpages.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\bin\zh-Hant\System.Web.Helpers.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\bin\zh-Hant\System.Web.Mvc.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\obj\Debug\ProjectF.csprojResolveAssemblyReference.cache
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\obj\Debug\ProjectF.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1007_15\ProjectF\obj\Debug\ProjectF.pdb
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\bin\roslyn\csc.exe
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\bin\roslyn\System.Collections.Immutable.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\bin\roslyn\System.Reflection.Metadata.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\bin\roslyn\vbc.exe
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\bin\roslyn\VBCSCompiler.exe
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\bin\roslyn\VBCSCompiler.exe.config
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\bin\ProjectF.dll.config
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\bin\ProjectF.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\bin\ProjectF.pdb
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\bin\EntityFramework.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\bin\EntityFramework.SqlServer.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\bin\Microsoft.Web.Infrastructure.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\bin\Newtonsoft.Json.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\bin\System.Net.Http.Formatting.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\bin\System.Web.Helpers.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\bin\System.Web.Http.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\bin\System.Web.Http.WebHost.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\bin\System.Web.Mvc.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\bin\System.Web.Razor.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\bin\System.Web.Webpages.Deployment.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\bin\System.Web.Webpages.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\bin\System.Web.Webpages.Razor.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\bin\EntityFramework.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\bin\EntityFramework.SqlServer.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\bin\Newtonsoft.Json.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\bin\System.Net.Http.Formatting.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\bin\System.Web.Http.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\bin\System.Web.Http.WebHost.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\bin\System.Web.Razor.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\bin\System.Web.Webpages.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\bin\System.Web.Webpages.Deployment.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\bin\System.Web.Webpages.Razor.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\bin\System.Web.Helpers.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\bin\System.Web.Mvc.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\bin\zh-Hant\EntityFramework.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\bin\zh-Hant\System.Web.Http.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\bin\zh-Hant\System.Web.Razor.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\bin\zh-Hant\System.Web.Webpages.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\bin\zh-Hant\System.Web.Helpers.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\bin\zh-Hant\System.Web.Mvc.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\obj\Debug\ProjectF.csprojResolveAssemblyReference.cache
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\obj\Debug\ProjectF.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_20\ProjectF\obj\Debug\ProjectF.pdb
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\bin\roslyn\csc.exe
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\bin\roslyn\System.Collections.Immutable.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\bin\roslyn\System.Reflection.Metadata.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\bin\roslyn\vbc.exe
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\bin\roslyn\VBCSCompiler.exe
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\bin\roslyn\VBCSCompiler.exe.config
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\bin\ProjectF.dll.config
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\bin\ProjectF.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\bin\ProjectF.pdb
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\bin\EntityFramework.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\bin\EntityFramework.SqlServer.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\bin\Microsoft.Web.Infrastructure.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\bin\Newtonsoft.Json.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\bin\System.Net.Http.Formatting.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\bin\System.Web.Helpers.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\bin\System.Web.Http.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\bin\System.Web.Http.WebHost.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\bin\System.Web.Mvc.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\bin\System.Web.Razor.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\bin\System.Web.Webpages.Deployment.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\bin\System.Web.Webpages.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\bin\System.Web.Webpages.Razor.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\bin\EntityFramework.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\bin\EntityFramework.SqlServer.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\bin\Newtonsoft.Json.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\bin\System.Net.Http.Formatting.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\bin\System.Web.Http.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\bin\System.Web.Http.WebHost.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\bin\System.Web.Razor.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\bin\System.Web.Webpages.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\bin\System.Web.Webpages.Deployment.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\bin\System.Web.Webpages.Razor.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\bin\System.Web.Helpers.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\bin\System.Web.Mvc.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\bin\zh-Hant\EntityFramework.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\bin\zh-Hant\System.Web.Http.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\bin\zh-Hant\System.Web.Razor.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\bin\zh-Hant\System.Web.Webpages.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\bin\zh-Hant\System.Web.Helpers.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\bin\zh-Hant\System.Web.Mvc.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\obj\Debug\ProjectF.csprojResolveAssemblyReference.cache
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\obj\Debug\ProjectF.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1010_23\ProjectF\obj\Debug\ProjectF.pdb
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\bin\roslyn\csc.exe
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\bin\roslyn\System.Collections.Immutable.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\bin\roslyn\System.Reflection.Metadata.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\bin\roslyn\vbc.exe
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\bin\roslyn\VBCSCompiler.exe
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\bin\roslyn\VBCSCompiler.exe.config
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\bin\ProjectF.dll.config
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\bin\ProjectF.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\bin\ProjectF.pdb
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\bin\EntityFramework.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\bin\EntityFramework.SqlServer.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\bin\Microsoft.Web.Infrastructure.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\bin\Newtonsoft.Json.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\bin\System.Net.Http.Formatting.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\bin\System.Web.Helpers.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\bin\System.Web.Http.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\bin\System.Web.Http.WebHost.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\bin\System.Web.Mvc.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\bin\System.Web.Razor.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\bin\System.Web.Webpages.Deployment.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\bin\System.Web.Webpages.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\bin\System.Web.Webpages.Razor.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\bin\EntityFramework.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\bin\EntityFramework.SqlServer.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\bin\Newtonsoft.Json.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\bin\System.Net.Http.Formatting.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\bin\System.Web.Http.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\bin\System.Web.Http.WebHost.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\bin\System.Web.Razor.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\bin\System.Web.Webpages.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\bin\System.Web.Webpages.Deployment.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\bin\System.Web.Webpages.Razor.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\bin\System.Web.Helpers.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\bin\System.Web.Mvc.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\bin\zh-Hant\EntityFramework.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\bin\zh-Hant\System.Web.Http.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\bin\zh-Hant\System.Web.Razor.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\bin\zh-Hant\System.Web.Webpages.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\bin\zh-Hant\System.Web.Helpers.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\bin\zh-Hant\System.Web.Mvc.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\obj\Debug\ProjectF.csprojResolveAssemblyReference.cache
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\obj\Debug\ProjectF.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_01\ProjectF\obj\Debug\ProjectF.pdb
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\bin\roslyn\csc.exe
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\bin\roslyn\System.Collections.Immutable.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\bin\roslyn\System.Reflection.Metadata.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\bin\roslyn\vbc.exe
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\bin\roslyn\VBCSCompiler.exe
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\bin\roslyn\VBCSCompiler.exe.config
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\bin\ProjectF.dll.config
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\bin\ProjectF.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\bin\ProjectF.pdb
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\bin\EntityFramework.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\bin\EntityFramework.SqlServer.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\bin\Microsoft.Web.Infrastructure.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\bin\Newtonsoft.Json.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\bin\System.Net.Http.Formatting.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\bin\System.Web.Helpers.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\bin\System.Web.Http.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\bin\System.Web.Http.WebHost.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\bin\System.Web.Mvc.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\bin\System.Web.Razor.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\bin\System.Web.Webpages.Deployment.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\bin\System.Web.Webpages.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\bin\System.Web.Webpages.Razor.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\bin\EntityFramework.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\bin\EntityFramework.SqlServer.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\bin\Newtonsoft.Json.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\bin\System.Net.Http.Formatting.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\bin\System.Web.Http.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\bin\System.Web.Http.WebHost.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\bin\System.Web.Razor.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\bin\System.Web.Webpages.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\bin\System.Web.Webpages.Deployment.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\bin\System.Web.Webpages.Razor.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\bin\System.Web.Helpers.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\bin\System.Web.Mvc.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\bin\zh-Hant\EntityFramework.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\bin\zh-Hant\System.Web.Http.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\bin\zh-Hant\System.Web.Razor.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\bin\zh-Hant\System.Web.Webpages.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\bin\zh-Hant\System.Web.Helpers.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\bin\zh-Hant\System.Web.Mvc.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\obj\Debug\ProjectF.csprojResolveAssemblyReference.cache
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\obj\Debug\ProjectF.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_02\ProjectF\obj\Debug\ProjectF.pdb
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\bin\roslyn\csc.exe
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\bin\roslyn\System.Collections.Immutable.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\bin\roslyn\System.Reflection.Metadata.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\bin\roslyn\vbc.exe
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\bin\roslyn\VBCSCompiler.exe
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\bin\roslyn\VBCSCompiler.exe.config
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\bin\ProjectF.dll.config
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\bin\ProjectF.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\bin\ProjectF.pdb
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\bin\EntityFramework.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\bin\EntityFramework.SqlServer.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\bin\Microsoft.Web.Infrastructure.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\bin\Newtonsoft.Json.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\bin\System.Net.Http.Formatting.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\bin\System.Web.Helpers.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\bin\System.Web.Http.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\bin\System.Web.Http.WebHost.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\bin\System.Web.Mvc.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\bin\System.Web.Razor.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\bin\System.Web.Webpages.Deployment.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\bin\System.Web.Webpages.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\bin\System.Web.Webpages.Razor.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\bin\EntityFramework.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\bin\EntityFramework.SqlServer.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\bin\Newtonsoft.Json.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\bin\System.Net.Http.Formatting.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\bin\System.Web.Http.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\bin\System.Web.Http.WebHost.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\bin\System.Web.Razor.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\bin\System.Web.Webpages.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\bin\System.Web.Webpages.Deployment.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\bin\System.Web.Webpages.Razor.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\bin\System.Web.Helpers.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\bin\System.Web.Mvc.xml
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\bin\zh-Hant\EntityFramework.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\bin\zh-Hant\System.Web.Http.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\bin\zh-Hant\System.Web.Razor.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\bin\zh-Hant\System.Web.Webpages.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\bin\zh-Hant\System.Web.Helpers.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\bin\zh-Hant\System.Web.Mvc.resources.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\obj\Debug\ProjectF.csprojResolveAssemblyReference.cache
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\obj\Debug\ProjectF.dll
+Z:\Google 雲端硬碟\末期\ProjectF v1011_17\ProjectF\obj\Debug\ProjectF.pdb
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\bin\roslyn\csc.exe
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\bin\roslyn\System.Collections.Immutable.dll
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\bin\roslyn\System.Reflection.Metadata.dll
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\bin\roslyn\vbc.exe
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\bin\roslyn\VBCSCompiler.exe
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\bin\roslyn\VBCSCompiler.exe.config
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\bin\ProjectF.dll.config
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\bin\ProjectF.dll
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\bin\ProjectF.pdb
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\bin\EntityFramework.dll
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\bin\EntityFramework.SqlServer.dll
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\bin\Microsoft.Web.Infrastructure.dll
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\bin\Newtonsoft.Json.dll
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\bin\System.Net.Http.Formatting.dll
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\bin\System.Web.Helpers.dll
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\bin\System.Web.Http.dll
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\bin\System.Web.Http.WebHost.dll
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\bin\System.Web.Mvc.dll
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\bin\System.Web.Razor.dll
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\bin\System.Web.Webpages.Deployment.dll
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\bin\System.Web.Webpages.dll
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\bin\System.Web.Webpages.Razor.dll
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\bin\EntityFramework.xml
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\bin\EntityFramework.SqlServer.xml
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\bin\Newtonsoft.Json.xml
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\bin\System.Net.Http.Formatting.xml
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\bin\System.Web.Http.xml
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\bin\System.Web.Http.WebHost.xml
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\bin\System.Web.Razor.xml
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\bin\System.Web.Webpages.xml
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\bin\System.Web.Webpages.Deployment.xml
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\bin\System.Web.Webpages.Razor.xml
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\bin\System.Web.Helpers.xml
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\bin\System.Web.Mvc.xml
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\bin\zh-Hant\EntityFramework.resources.dll
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\bin\zh-Hant\System.Web.Http.resources.dll
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\bin\zh-Hant\System.Web.Razor.resources.dll
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\bin\zh-Hant\System.Web.Webpages.resources.dll
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\bin\zh-Hant\System.Web.Helpers.resources.dll
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\bin\zh-Hant\System.Web.Mvc.resources.dll
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\obj\Debug\ProjectF.csprojResolveAssemblyReference.cache
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\obj\Debug\ProjectF.dll
+D:\ProjectF v1011_17-20170329T150625Z-001\ProjectF v1011_17\ProjectF\obj\Debug\ProjectF.pdb

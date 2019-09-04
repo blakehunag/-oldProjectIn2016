@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="HRModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="QA">
+          <Key>
+            <PropertyRef Name="QID" />
+          </Key>
+          <Property Name="QID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Question" Type="nvarchar(max)" />
+          <Property Name="Option1" Type="nvarchar(max)" />
+          <Property Name="Option2" Type="nvarchar(max)" />
+          <Property Name="Option3" Type="nvarchar(max)" />
+          <Property Name="Option4" Type="nvarchar(max)" />
+          <Property Name="Answer" Type="nvarchar(max)" />
+          <Property Name="CID" Type="int" Nullable="false" />
+          <Property Name="qNumber" Type="int" />
+        </EntityType>
+        <EntityType Name="quizResult">
+          <Key>
+            <PropertyRef Name="rID" />
+          </Key>
+          <Property Name="rID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="testYet" Type="bit" Nullable="false" />
+          <Property Name="scrore" Type="nvarchar" MaxLength="50" />
+          <Property Name="course" Type="nvarchar" MaxLength="50" />
+          <Property Name="userID" Type="int" />
+          <Property Name="A1" Type="nvarchar" MaxLength="50" />
+          <Property Name="A2" Type="nvarchar" MaxLength="50" />
+          <Property Name="A3" Type="nvarchar" MaxLength="50" />
+          <Property Name="A4" Type="nvarchar" MaxLength="50" />
+          <Property Name="A5" Type="nvarchar" MaxLength="50" />
+          <Property Name="A6" Type="nvarchar" MaxLength="50" />
+          <Property Name="A7" Type="nvarchar" MaxLength="50" />
+          <Property Name="A8" Type="nvarchar" MaxLength="50" />
+          <Property Name="A9" Type="nvarchar" MaxLength="50" />
+          <Property Name="A10" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="videoHistory">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="useID" Type="int" />
+          <Property Name="playedTime" Type="float" />
+          <Property Name="percentage" Type="int" />
+          <Property Name="course" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <EntityContainer Name="HRModelStoreContainer">
+          <EntitySet Name="QA" EntityType="Self.QA" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="quizResult" EntityType="Self.quizResult" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="videoHistory" EntityType="Self.videoHistory" Schema="dbo" store:Type="Tables" />
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="HRModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="QA">
+          <Key>
+            <PropertyRef Name="QID" />
+          </Key>
+          <Property Name="QID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Question" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="Option1" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="Option2" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="Option3" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="Option4" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="Answer" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="CID" Type="Int32" Nullable="false" />
+          <Property Name="qNumber" Type="Int32" />
+        </EntityType>
+        <EntityType Name="quizResult">
+          <Key>
+            <PropertyRef Name="rID" />
+          </Key>
+          <Property Name="rID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="testYet" Type="Boolean" Nullable="false" />
+          <Property Name="scrore" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="course" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="userID" Type="Int32" />
+          <Property Name="A1" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="A2" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="A3" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="A4" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="A5" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="A6" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="A7" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="A8" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="A9" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="A10" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityType Name="videoHistory">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="useID" Type="Int32" />
+          <Property Name="playedTime" Type="Double" />
+          <Property Name="percentage" Type="Int32" />
+          <Property Name="course" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityContainer Name="HREntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="QA" EntityType="Self.QA" />
+          <EntitySet Name="quizResult" EntityType="Self.quizResult" />
+          <EntitySet Name="videoHistory" EntityType="Self.videoHistory" />
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="HRModelStoreContainer" CdmEntityContainer="HREntities">
+          <EntitySetMapping Name="QA">
+            <EntityTypeMapping TypeName="HRModel.QA">
+              <MappingFragment StoreEntitySet="QA">
+                <ScalarProperty Name="QID" ColumnName="QID" />
+                <ScalarProperty Name="Question" ColumnName="Question" />
+                <ScalarProperty Name="Option1" ColumnName="Option1" />
+                <ScalarProperty Name="Option2" ColumnName="Option2" />
+                <ScalarProperty Name="Option3" ColumnName="Option3" />
+                <ScalarProperty Name="Option4" ColumnName="Option4" />
+                <ScalarProperty Name="Answer" ColumnName="Answer" />
+                <ScalarProperty Name="CID" ColumnName="CID" />
+                <ScalarProperty Name="qNumber" ColumnName="qNumber" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="quizResult">
+            <EntityTypeMapping TypeName="HRModel.quizResult">
+              <MappingFragment StoreEntitySet="quizResult">
+                <ScalarProperty Name="rID" ColumnName="rID" />
+                <ScalarProperty Name="testYet" ColumnName="testYet" />
+                <ScalarProperty Name="scrore" ColumnName="scrore" />
+                <ScalarProperty Name="course" ColumnName="course" />
+                <ScalarProperty Name="userID" ColumnName="userID" />
+                <ScalarProperty Name="A1" ColumnName="A1" />
+                <ScalarProperty Name="A2" ColumnName="A2" />
+                <ScalarProperty Name="A3" ColumnName="A3" />
+                <ScalarProperty Name="A4" ColumnName="A4" />
+                <ScalarProperty Name="A5" ColumnName="A5" />
+                <ScalarProperty Name="A6" ColumnName="A6" />
+                <ScalarProperty Name="A7" ColumnName="A7" />
+                <ScalarProperty Name="A8" ColumnName="A8" />
+                <ScalarProperty Name="A9" ColumnName="A9" />
+                <ScalarProperty Name="A10" ColumnName="A10" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="videoHistory">
+            <EntityTypeMapping TypeName="HRModel.videoHistory">
+              <MappingFragment StoreEntitySet="videoHistory">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="useID" ColumnName="useID" />
+                <ScalarProperty Name="playedTime" ColumnName="playedTime" />
+                <ScalarProperty Name="percentage" ColumnName="percentage" />
+                <ScalarProperty Name="course" ColumnName="course" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="無" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

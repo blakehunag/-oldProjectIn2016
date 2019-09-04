@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="HRModelStoreContainer" CdmEntityContainer="HREntities1">
+    <EntitySetMapping Name="quizResult">
+      <EntityTypeMapping TypeName="HRModel.quizResult">
+        <MappingFragment StoreEntitySet="quizResult">
+          <ScalarProperty Name="A10" ColumnName="A10" />
+          <ScalarProperty Name="A9" ColumnName="A9" />
+          <ScalarProperty Name="A7" ColumnName="A7" />
+          <ScalarProperty Name="A6" ColumnName="A6" />
+          <ScalarProperty Name="A5" ColumnName="A5" />
+          <ScalarProperty Name="A4" ColumnName="A4" />
+          <ScalarProperty Name="A3" ColumnName="A3" />
+          <ScalarProperty Name="A2" ColumnName="A2" />
+          <ScalarProperty Name="A1" ColumnName="A1" />
+          <ScalarProperty Name="userID" ColumnName="userID" />
+          <ScalarProperty Name="course" ColumnName="course" />
+          <ScalarProperty Name="scrore" ColumnName="scrore" />
+          <ScalarProperty Name="testYet" ColumnName="testYet" />
+          <ScalarProperty Name="rID" ColumnName="rID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="courses">
+      <EntityTypeMapping TypeName="HRModel.courses">
+        <MappingFragment StoreEntitySet="courses">
+          <ScalarProperty Name="CoursesName" ColumnName="CoursesName" />
+          <ScalarProperty Name="CID" ColumnName="CID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="QA">
+      <EntityTypeMapping TypeName="HRModel.QA">
+        <MappingFragment StoreEntitySet="QA">
+          <ScalarProperty Name="qNumber" ColumnName="qNumber" />
+          <ScalarProperty Name="CID" ColumnName="CID" />
+          <ScalarProperty Name="Answer" ColumnName="Answer" />
+          <ScalarProperty Name="Option4" ColumnName="Option4" />
+          <ScalarProperty Name="Option3" ColumnName="Option3" />
+          <ScalarProperty Name="Option2" ColumnName="Option2" />
+          <ScalarProperty Name="Option1" ColumnName="Option1" />
+          <ScalarProperty Name="Question" ColumnName="Question" />
+          <ScalarProperty Name="QID" ColumnName="QID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,184 @@
+﻿
+@{
+    ViewBag.Title = "";
+}
+<!--把option的div樣式拿掉，改用label有樣式，方便click for-->
+@section styles{
+    <style>
+        .bBox {
+            margin-left: 32%;
+        }
+
+        .quizBody {
+            margin-top: 22px;
+        }
+
+        label {
+        }
+
+        /*video {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            min-width: 100%;
+            min-height: 100%;
+            width: auto;
+            height: auto;
+            z-index: -100;
+            transform: translateX(-50%) translateY(-50%);
+            background: url('/images/coding.mp4') no-repeat;
+            background-size: cover;
+            transition: 1s opacity;
+        }
+
+        */
+    </style>
+    <link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/angular_material/1.1.0/angular-material.min.css">
+}
+
+    <div class="row" ng-app="myApp" ng-controller="quizController as ctrl" ng-cloak ng-keypress="onKeyPress($event)" tabindex="1">
+        @*<video poster="" id="bgvid" playsinline autoplay muted loop>
+            <source src="~/images/coding.mp4" type="video/mp4">
+        </video>*@
+        <img src="~/images/eevee.gif" style="position:absolute;left:45%;top:45%;z-index:1" ng-show="summonEevee==true" />
+        <div class="col-lg-10 col-lg-offset-1">
+            <div class="quizBox">
+                <div class="quizQ">
+                    <h1 class="question" style="color:black">第{{index+1}}題 : {{ctrl.QA.Question}}</h1>
+                </div>
+                <div class="quizBody">
+
+                    @*<div class="col-md-12 qBox">
+                        <md-radio-group ng-model="data.group1">
+
+                            <md-radio-button class="md-primary" ng-click="radioClick(ctrl.QA.Option1)" ng-model="option" value="1">: {{ctrl.QA.Option1}}</md-radio-button>
+                            <md-radio-button class="md-primary" ng-click="radioClick(ctrl.QA.Option2)" ng-model="option" value="2">: {{ctrl.QA.Option2}}</md-radio-button>
+                            <md-radio-button class="md-primary" ng-click="radioClick(ctrl.QA.Option3)" ng-model="option" value="3">: {{ctrl.QA.Option3}}</md-radio-button>
+                            <md-radio-button class="md-primary" ng-click="radioClick(ctrl.QA.Option4)" ng-model="option" value="4">: {{ctrl.QA.Option4}}</md-radio-button>
+                        </md-radio-group>
+                        </div>*@
+                    @*<md-radio-group ng-model="data.group1">
+                        <md-content>
+                            <md-list>
+                                <md-list-item class="md-3-line">
+                                    <md-radio-button class="md-primary" type="radio" id="check1" name="option" ng-click="radioClick(ctrl.QA.Option1)" ng-model="option" value="1" style="margin-top:32px"></md-radio-button>
+                                    <div class="md-list-item-text">
+                                        <label for="check1">Option1: {{ctrl.QA.Option1}}</label>
+                                    </div>
+                                    <md-divider></md-divider>
+                                </md-list-item>
+                            </md-list>
+                            <md-list>
+                                <md-list-item class="md-3-line">
+                                    <md-radio-button class="md-primary" ng-click="radioClick(ctrl.QA.Option2)" ng-model="option" value="2" style="margin-top:32px"></md-radio-button>
+                                    <div class="md-list-item-text">
+                                        <label for="check2">Option1: {{ctrl.QA.Option2}}</label>
+                                    </div>
+                                    <md-divider></md-divider>
+                                </md-list-item>
+                            </md-list>
+                            <md-list>
+                                <md-list-item class="md-3-line">
+                                    <md-radio-button class="md-primary" ng-click="radioClick(ctrl.QA.Option3)" ng-model="option" value="3" style="margin-top:32px"></md-radio-button>
+                                    <div class="md-list-item-text">
+                                        <label for="check3">Option1: {{ctrl.QA.Option3}}</label>
+                                    </div>
+                                    <md-divider></md-divider>
+                                </md-list-item>
+                            </md-list>
+                            <md-list>
+                                <md-list-item class="md-3-line">
+                                    <md-radio-button class="md-primary" ng-click="radioClick(ctrl.QA.Option4)" ng-model="option" value="4" style="margin-top:32px"></md-radio-button>
+                                    <div class="md-list-item-text">
+                                        <label for="check4">Option1: {{ctrl.QA.Option4}}</label>
+                                    </div>
+                                    <md-divider></md-divider>
+                                </md-list-item>
+                            </md-list>
+                        </md-content>*@
+
+
+
+                    <div class="row">
+                        <div ng-class="{'col-sm-8 qBox chosen' : 1==answer[index],'col-sm-8 qBox':1!=answer[index]}">
+                            <input type="radio" id="check1" name="option" ng-click="radioClick(ctrl.QA.Option1)" ng-model="option" value="1" /> <label for="check1">Option1: {{ctrl.QA.Option1}}</label>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div ng-class="{'col-sm-8 qBox chosen' : 2==answer[index],'col-sm-8 qBox':2!=answer[index]}">
+                            <input type="radio" id="check2" name="option" ng-click="radioClick(ctrl.QA.Option2)" ng-model="option" value="2" /> <label for="check2">Option2: {{ctrl.QA.Option2}}</label>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div ng-class="{'col-sm-8 qBox chosen' : 3==answer[index],'col-sm-8 qBox':3!=answer[index]}">
+                            <input type="radio" id="check3" name="option" ng-click="radioClick(ctrl.QA.Option3)" ng-model="option" value="3" /> <label for="check3">Option3: {{ctrl.QA.Option3}}</label>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div ng-class="{'col-sm-8 qBox chosen' : 4==answer[index],'col-sm-8 qBox':4!=answer[index]}">
+                            <input type="radio" id="check4" name="option" ng-click="radioClick(ctrl.QA.Option4)" ng-model="option" value="4" /> <label for="check4">Option4: {{ctrl.QA.Option4}}</label>
+                        </div>
+                    </div>
+
+                    <div flex layout="column">
+                        <div flex layout="column">
+                            @*<section flex>
+                                    <md-content layout-padding="">
+                                        <h1>Material Angular Paging demo</h1>
+                                        <div>Loaded data form Page <strong>{{currentPage}}</strong></div>
+
+                                    </md-content>
+                                </section>*@
+
+                            <section layout="row" layout-padding="">
+
+                                <cl-paging flex cl-pages="paging.total" cl-steps="11" cl-page-changed="paging.onPageChanged()" cl-align="center center" cl-current-page="paging.current"></cl-paging>
+
+                            </section>
+
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-sm-6 bBox">
+                            <button type="button" class="btn  btn-control" ng-click="ctrl.PreQA()" ng-disabled="btnPreDisable">上一題</button>
+
+                            <button type="button" class="btn  btn-control" ng-click="ctrl.NxtQA()" ng-disabled="btnNxtDisable">下一題</button>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-6 bBox">
+                            <h1>剩餘作答時間 : {{mins| number:0}}分{{secs}}秒</h1>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-6 bBox">
+                            <button type="button" class="btn  btn-control" ng-click="submitQA($event)" ng-disabled="submit==true">確認送出</button>
+                            <button type="button" class="btn  btn-control" ng-click="toMain()">離開</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+</div>
+@section scripts {
+    <script src="~/Scripts/angular.min.js"></script>
+    <script src="~/Scripts/angular-resource.min.js"></script>
+    <script src="~/Scripts/angular-route.min.js"></script>
+    <script src="~/Scripts/angular-animate.min.js"></script>
+    <script src="~/Scripts/angular-cookies.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-material/1.1.1/angular-material.min.js"></script>
+    <script src="http://ngmaterial.assets.s3.amazonaws.com/svg-assets-cache.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular-aria.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular-messages.min.js"></script>
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/dist.min.js"></script>
+    <script src="~/Scripts/app.js"></script>
+    <script src="~/ngController/quizController.js"></script>
+    <script>
+
+
+    </script>
+}
+

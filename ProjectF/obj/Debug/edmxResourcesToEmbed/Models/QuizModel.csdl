@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="HRModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="HREntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="courses" EntityType="HRModel.courses" />
+    <EntitySet Name="QA" EntityType="HRModel.QA" />
+    <AssociationSet Name="FK_QA_courses" Association="HRModel.FK_QA_courses">
+      <End Role="courses" EntitySet="courses" />
+      <End Role="QA" EntitySet="QA" />
+    </AssociationSet>
+    <EntitySet Name="quizResult" EntityType="HRModel.quizResult" />
+  </EntityContainer>
+  <EntityType Name="courses">
+    <Key>
+      <PropertyRef Name="CID" />
+    </Key>
+    <Property Name="CID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CoursesName" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="QA" Relationship="HRModel.FK_QA_courses" FromRole="courses" ToRole="QA" />
+  </EntityType>
+  <EntityType Name="QA">
+    <Key>
+      <PropertyRef Name="QID" />
+    </Key>
+    <Property Name="QID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Question" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Option1" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Option2" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Option3" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Option4" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Answer" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="CID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="courses" Relationship="HRModel.FK_QA_courses" FromRole="QA" ToRole="courses" />
+  </EntityType>
+  <Association Name="FK_QA_courses">
+    <End Type="HRModel.courses" Role="courses" Multiplicity="1" />
+    <End Type="HRModel.QA" Role="QA" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="courses">
+        <PropertyRef Name="CID" />
+      </Principal>
+      <Dependent Role="QA">
+        <PropertyRef Name="CID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="quizResult">
+    <Key>
+      <PropertyRef Name="rID" />
+    </Key>
+    <Property Name="rID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="testYet" Type="String" Nullable="false" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="scrore" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="course" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="userID" Type="Int32" />
+  </EntityType>
+</Schema>

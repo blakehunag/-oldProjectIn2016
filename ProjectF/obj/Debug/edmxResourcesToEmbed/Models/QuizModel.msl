@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="HRModelStoreContainer" CdmEntityContainer="HREntities">
+    <EntitySetMapping Name="courses">
+      <EntityTypeMapping TypeName="HRModel.courses">
+        <MappingFragment StoreEntitySet="courses">
+          <ScalarProperty Name="CoursesName" ColumnName="CoursesName" />
+          <ScalarProperty Name="CID" ColumnName="CID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="QA">
+      <EntityTypeMapping TypeName="HRModel.QA">
+        <MappingFragment StoreEntitySet="QA">
+          <ScalarProperty Name="CID" ColumnName="CID" />
+          <ScalarProperty Name="Answer" ColumnName="Answer" />
+          <ScalarProperty Name="Option4" ColumnName="Option4" />
+          <ScalarProperty Name="Option3" ColumnName="Option3" />
+          <ScalarProperty Name="Option2" ColumnName="Option2" />
+          <ScalarProperty Name="Option1" ColumnName="Option1" />
+          <ScalarProperty Name="Question" ColumnName="Question" />
+          <ScalarProperty Name="QID" ColumnName="QID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="quizResult">
+      <EntityTypeMapping TypeName="HRModel.quizResult">
+        <MappingFragment StoreEntitySet="quizResult">
+          <ScalarProperty Name="userID" ColumnName="userID" />
+          <ScalarProperty Name="course" ColumnName="course" />
+          <ScalarProperty Name="scrore" ColumnName="scrore" />
+          <ScalarProperty Name="testYet" ColumnName="testYet" />
+          <ScalarProperty Name="rID" ColumnName="rID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
